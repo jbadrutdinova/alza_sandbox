@@ -1,0 +1,6518 @@
+[
+    {
+        "id": "7599894",
+        "price": "6052.64",
+        "brand": "Siguro",
+        "name": "Siguro BF-J140Y Arctic"
+    },
+    {
+        "id": "6153388",
+        "price": "11539.45",
+        "brand": "BEKO",
+        "name": "BEKO BCNA306E3SN"
+    },
+    {
+        "id": "6776815",
+        "price": "18990.00",
+        "brand": "LG",
+        "name": "LG GBP62PZNBC"
+    },
+    {
+        "id": "7665816",
+        "price": "35927.20",
+        "brand": "HISENSE",
+        "name": "HISENSE RQ760N4AFE"
+    },
+    {
+        "id": "7599893",
+        "price": "6096.49",
+        "brand": "Siguro",
+        "name": "Siguro BF-J140S Arctic"
+    },
+    {
+        "id": "7600117",
+        "price": "5940.46",
+        "brand": "Siguro",
+        "name": "SIGURO BF-J140W Arctic"
+    },
+    {
+        "id": "7575602",
+        "price": "5079.41",
+        "brand": "Siguro",
+        "name": "SIGURO TF-J140W Fresh"
+    },
+    {
+        "id": "7591213",
+        "price": "10514.49",
+        "brand": "Siguro",
+        "name": "SIGURO BF-O120W Ideal"
+    },
+    {
+        "id": "7575601",
+        "price": "5154.40",
+        "brand": "Siguro",
+        "name": "SIGURO TF-J140S Fresh"
+    },
+    {
+        "id": "7709071",
+        "price": "18790.00",
+        "brand": "LG",
+        "name": "LG GBP62SWNBC"
+    },
+    {
+        "id": "5854413",
+        "price": "7289.00",
+        "brand": "BEKO",
+        "name": "BEKO CSA270K30XPN"
+    },
+    {
+        "id": "7761173",
+        "price": "17090.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB38C705CSR/EF "
+    },
+    {
+        "id": "5583501",
+        "price": "44990.00",
+        "brand": "LG",
+        "name": "LG GMX844MCKV"
+    },
+    {
+        "id": "7650380",
+        "price": "8690.00",
+        "brand": "HOOVER",
+        "name": "HOOVER HOCT3L517EB2"
+    },
+    {
+        "id": "6418983",
+        "price": "18999.00",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL WHC18 T573"
+    },
+    {
+        "id": "7734411",
+        "price": "7499.00",
+        "brand": "CANDY",
+        "name": "CANDY CCG1S 518EX"
+    },
+    {
+        "id": "5884989",
+        "price": "6789.00",
+        "brand": "BEKO",
+        "name": "BEKO RCSA 240M30WN"
+    },
+    {
+        "id": "6928068",
+        "price": "24990.00",
+        "brand": "GORENJE",
+        "name": "GORENJE NRM918FUX"
+    },
+    {
+        "id": "6162157",
+        "price": "4019.00",
+        "brand": "BEKO",
+        "name": "BEKO TSE1423N"
+    },
+    {
+        "id": "6162158",
+        "price": "7155.86",
+        "brand": "BEKO",
+        "name": "BEKO RCSA300K30SN"
+    },
+    {
+        "id": "6438323",
+        "price": "6799.00",
+        "brand": "ETA",
+        "name": "ETA 254390000F"
+    },
+    {
+        "id": "5853427",
+        "price": "5069.91",
+        "brand": "GORENJE",
+        "name": "GORENJE RB493PW"
+    },
+    {
+        "id": "7761171",
+        "price": "23990.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB38C776CS9/EF "
+    },
+    {
+        "id": "6928140",
+        "price": "18931.64",
+        "brand": "GORENJE",
+        "name": "GORENJE ONRK619DC-L"
+    },
+    {
+        "id": "7850422",
+        "price": "12990.00",
+        "brand": "LG",
+        "name": "LG GBB62PZFGN"
+    },
+    {
+        "id": "6366396",
+        "price": "20990.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG RS66A8100SL/EF"
+    },
+    {
+        "id": "7899028",
+        "price": "14990.00",
+        "brand": "LG",
+        "name": "LG GBB62SWGCC1"
+    },
+    {
+        "id": "7752627",
+        "price": "22190.00",
+        "brand": "HISENSE",
+        "name": "HISENSE RS677N4ACC"
+    },
+    {
+        "id": "7761168",
+        "price": "13490.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB34C670DSA/EF "
+    },
+    {
+        "id": "7761166",
+        "price": "14590.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB34C600CSA/EF "
+    },
+    {
+        "id": "7761152",
+        "price": "26490.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG Bespoke RB38C7B6AS9/EF "
+    },
+    {
+        "id": "5548853",
+        "price": "5990.00",
+        "brand": "AMICA",
+        "name": "AMICA VJ 1432 AW"
+    },
+    {
+        "id": "7850421",
+        "price": "12990.00",
+        "brand": "LG",
+        "name": "LG GBB62SWFGN"
+    },
+    {
+        "id": "7243707",
+        "price": "14307.27",
+        "brand": "LG",
+        "name": "LG GBP62DSNCN1"
+    },
+    {
+        "id": "6410992",
+        "price": "10990.00",
+        "brand": "GORENJE",
+        "name": "GORENJE NRK6202EXL4"
+    },
+    {
+        "id": "7439738",
+        "price": "10985.44",
+        "brand": "GORENJE",
+        "name": "GORENJE R619EES5"
+    },
+    {
+        "id": "6153389",
+        "price": "12678.28",
+        "brand": "BEKO",
+        "name": "BEKO BCNA275E4SN"
+    },
+    {
+        "id": "5875978",
+        "price": "8054.99",
+        "brand": "BEKO",
+        "name": "BEKO BCSA285K3SN"
+    },
+    {
+        "id": "6581524",
+        "price": "5989.00",
+        "brand": "ETA",
+        "name": "ETA 253790020E"
+    },
+    {
+        "id": "5589707",
+        "price": "22590.00",
+        "brand": "GORENJE",
+        "name": "GORENJE NRS9182VB"
+    },
+    {
+        "id": "6796422",
+        "price": "17483.75",
+        "brand": "Bosch",
+        "name": "BOSCH KGN392ICF"
+    },
+    {
+        "id": "7807972",
+        "price": "4518.73",
+        "brand": "Siguro",
+        "name": "SIGURO TT-E250W Chill &amp; Freeze"
+    },
+    {
+        "id": "6287509",
+        "price": "6945.15",
+        "brand": "BEKO",
+        "name": "BEKO RCSA300K30WN"
+    },
+    {
+        "id": "5799528",
+        "price": "15820.31",
+        "brand": "Bosch",
+        "name": "BOSCH KGE36AWCA"
+    },
+    {
+        "id": "7761162",
+        "price": "24636.66",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB38C607AS9/EF "
+    },
+    {
+        "id": "7811154",
+        "price": "19990.00",
+        "brand": "Bosch",
+        "name": "BOSCH KGN39VICT"
+    },
+    {
+        "id": "7807971",
+        "price": "4619.38",
+        "brand": "Siguro",
+        "name": "SIGURO TT-E250S Chill &amp; Freeze"
+    },
+    {
+        "id": "6366398",
+        "price": "22990.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG RS67A8811S9/EF"
+    },
+    {
+        "id": "6156931",
+        "price": "20990.00",
+        "brand": "Bosch",
+        "name": "BOSCH KGE49AICA"
+    },
+    {
+        "id": "7761164",
+        "price": "17990.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB38C605CWW/EF "
+    },
+    {
+        "id": "7761156",
+        "price": "26490.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG Bespoke RB38C7B6AB1/EF "
+    },
+    {
+        "id": "7175998",
+        "price": "13900.00",
+        "brand": "FAGOR",
+        "name": "FAGOR 3FFK-6945X"
+    },
+    {
+        "id": "7665813",
+        "price": "9290.00",
+        "brand": "HISENSE",
+        "name": "HISENSE RB390N4AC21"
+    },
+    {
+        "id": "7665816",
+        "price": "35927.20",
+        "brand": "HISENSE",
+        "name": "HISENSE RQ760N4AFE"
+    },
+    {
+        "id": "7722875",
+        "price": "6589.00",
+        "brand": "ETA",
+        "name": "ETA 253990000EN"
+    },
+    {
+        "id": "7327760",
+        "price": "13561.49",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL W7X 93T OX H"
+    },
+    {
+        "id": "6744322",
+        "price": "23153.52",
+        "brand": "AEG",
+        "name": "AEG Mastery FlexiShelf SCE818D3FS"
+    },
+    {
+        "id": "7359967",
+        "price": "25681.69",
+        "brand": "HAIER",
+        "name": "HAIER HSR5918DIMP"
+    },
+    {
+        "id": "5783353",
+        "price": "34990.00",
+        "brand": "LG",
+        "name": "LG GML844PZKZ"
+    },
+    {
+        "id": "6278981",
+        "price": "4853.27",
+        "brand": "CANDY",
+        "name": "CANDY CCTOS 544WHN"
+    },
+    {
+        "id": "7236006",
+        "price": "3499.95",
+        "brand": "Hyundai",
+        "name": "HYUNDAI RSD086GW8AF"
+    },
+    {
+        "id": "5589705",
+        "price": "20890.00",
+        "brand": "GORENJE",
+        "name": "GORENJE NRS9182VX"
+    },
+    {
+        "id": "5875736",
+        "price": "5483.11",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 85"
+    },
+    {
+        "id": "7177013",
+        "price": "6590.00",
+        "brand": "CANDY",
+        "name": "CANDY CDV1S514EWHE"
+    },
+    {
+        "id": "7764963",
+        "price": "15990.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB38C605DWW/EF"
+    },
+    {
+        "id": "7789600",
+        "price": "22813.51",
+        "brand": "Bosch",
+        "name": "BOSCH KGN49VXCT"
+    },
+    {
+        "id": "6261313",
+        "price": "22067.89",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KI81RADE0"
+    },
+    {
+        "id": "6283939",
+        "price": "19990.00",
+        "brand": "HAIER",
+        "name": "HAIER HSR3918ENPB"
+    },
+    {
+        "id": "7815437",
+        "price": "27175.68",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL WH SP70 T122"
+    },
+    {
+        "id": "6223479",
+        "price": "10290.00",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL W5 921E OX 2"
+    },
+    {
+        "id": "5854414",
+        "price": "6790.00",
+        "brand": "BEKO",
+        "name": "BEKO CSA270M31WN"
+    },
+    {
+        "id": "7290440",
+        "price": "8999.00",
+        "brand": "CANDY",
+        "name": "CANDY CCE3T618EW"
+    },
+    {
+        "id": "6240949",
+        "price": "6836.58",
+        "brand": "BEKO",
+        "name": "BEKO BU1153HCN"
+    },
+    {
+        "id": "7752624",
+        "price": "13490.00",
+        "brand": "HISENSE",
+        "name": "HISENSE RB390N4BCC"
+    },
+    {
+        "id": "7951208",
+        "price": "12333.14",
+        "brand": "LG",
+        "name": "LG GBV3200DEP"
+    },
+    {
+        "id": "7772656",
+        "price": "25126.99",
+        "brand": "Bosch",
+        "name": "BOSCH KIN86ADD0"
+    },
+    {
+        "id": "6366406",
+        "price": "24045.45",
+        "brand": "Samsung",
+        "name": "SAMSUNG RF50A5002S9/EO"
+    },
+    {
+        "id": "6283937",
+        "price": "25390.00",
+        "brand": "HAIER",
+        "name": "HAIER HB20FPAAA"
+    },
+    {
+        "id": "6885593",
+        "price": "2641.24",
+        "brand": "Siguro",
+        "name": "SIGURO MB-A160W Bulk"
+    },
+    {
+        "id": "7781241",
+        "price": "4913.23",
+        "brand": "Siguro",
+        "name": "SIGURO TF-J140Y Fresh"
+    },
+    {
+        "id": "6278983",
+        "price": "4441.12",
+        "brand": "CANDY",
+        "name": "CANDY CCTOS 542XHN"
+    },
+    {
+        "id": "6549594",
+        "price": "6528.43",
+        "brand": "CANDY",
+        "name": "CANDY CFM 14504SN"
+    },
+    {
+        "id": "7665814",
+        "price": "23990.00",
+        "brand": "HISENSE",
+        "name": "HISENSE RT641N4WIE1"
+    },
+    {
+        "id": "1571779",
+        "price": "3623.81",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 28"
+    },
+    {
+        "id": "7176162",
+        "price": "33648.10",
+        "brand": "Samsung",
+        "name": "SAMSUNG RS68A884CB1/EF"
+    },
+    {
+        "id": "6448535",
+        "price": "13453.34",
+        "brand": "SNAIGE",
+        "name": "SNAIGE CD35DM-S302SD"
+    },
+    {
+        "id": "6549593",
+        "price": "6551.77",
+        "brand": "CANDY",
+        "name": "CANDY CHCS 4144WN"
+    },
+    {
+        "id": "7734409",
+        "price": "6849.33",
+        "brand": "CANDY",
+        "name": "CANDY CCG1S 518EW"
+    },
+    {
+        "id": "6153383",
+        "price": "10694.09",
+        "brand": "BEKO",
+        "name": "BEKO RCNA406I40XBN"
+    },
+    {
+        "id": "6153379",
+        "price": "5439.00",
+        "brand": "BEKO",
+        "name": "BEKO RDSA180K30WN"
+    },
+    {
+        "id": "6153373",
+        "price": "3832.66",
+        "brand": "BEKO",
+        "name": "BEKO TS190330N"
+    },
+    {
+        "id": "6273681",
+        "price": "5589.00",
+        "brand": "GODDESS",
+        "name": "GODDESS RDD0144GW8AF "
+    },
+    {
+        "id": "7742310",
+        "price": "8499.00",
+        "brand": "HOOVER",
+        "name": "HOOVER HOCT3L517ES2"
+    },
+    {
+        "id": "6994312",
+        "price": "25990.00",
+        "brand": "Bosch",
+        "name": "BOSCH KGN39AIBT"
+    },
+    {
+        "id": "7761172",
+        "price": "20224.28",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB38T607BB1/EF "
+    },
+    {
+        "id": "7802090",
+        "price": "3888.89",
+        "brand": "CANDY",
+        "name": "CANDY CHASD4385EB"
+    },
+    {
+        "id": "7146830",
+        "price": "6172.55",
+        "brand": "HISENSE",
+        "name": "HISENSE RB224D4BWE"
+    },
+    {
+        "id": "6310891",
+        "price": "2886.67",
+        "brand": "Hyundai",
+        "name": "HYUNDAI RSC050WW8F"
+    },
+    {
+        "id": "7137699",
+        "price": "14353.27",
+        "brand": "Bosch",
+        "name": "BOSCH KGN36VLED"
+    },
+    {
+        "id": "7127103",
+        "price": "17022.46",
+        "brand": "Bosch",
+        "name": "BOSCH KGN36VICT"
+    },
+    {
+        "id": "6310890",
+        "price": "2880.16",
+        "brand": "PHILCO",
+        "name": "PHILCO PSL 40 F CUBE"
+    },
+    {
+        "id": "6448531",
+        "price": "28990.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG BRB26705DWW/EF"
+    },
+    {
+        "id": "5322724",
+        "price": "12401.63",
+        "brand": "AMICA",
+        "name": "AMICA KGCR 387100 B"
+    },
+    {
+        "id": "5853428",
+        "price": "7296.08",
+        "brand": "GORENJE",
+        "name": "GORENJE R4142PW"
+    },
+    {
+        "id": "6633414",
+        "price": "50937.21",
+        "brand": "LG",
+        "name": "LG GML945PZ8F"
+    },
+    {
+        "id": "7230581",
+        "price": "13089.26",
+        "brand": "GORENJE",
+        "name": "GORENJE NRK62CA2XL4 AdaptTech"
+    },
+    {
+        "id": "7625828",
+        "price": "17350.88",
+        "brand": "BEKO",
+        "name": "BEKO Beyond BCNE400E40SN"
+    },
+    {
+        "id": "6438480",
+        "price": "3835.05",
+        "brand": "Hyundai",
+        "name": "HYUNDAI RSD064WW8F "
+    },
+    {
+        "id": "7761155",
+        "price": "28848.72",
+        "brand": "Samsung",
+        "name": "SAMSUNG RS68CG883DS9/EF "
+    },
+    {
+        "id": "4563948",
+        "price": "15166.61",
+        "brand": "SNAIGE",
+        "name": "SNAIGE CD40DM-S3002E"
+    },
+    {
+        "id": "6318114",
+        "price": "13490.00",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CUel 231"
+    },
+    {
+        "id": "6731074",
+        "price": "47685.23",
+        "brand": "LG",
+        "name": "LG GSXV91MBAE "
+    },
+    {
+        "id": "6448532",
+        "price": "23990.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG BRB26705EWW/EF"
+    },
+    {
+        "id": "6398147",
+        "price": "14089.18",
+        "brand": "GORENJE",
+        "name": "GORENJE NRC620CSXL4"
+    },
+    {
+        "id": "7439740",
+        "price": "8377.73",
+        "brand": "GORENJE",
+        "name": "GORENJE R615EEW5"
+    },
+    {
+        "id": "7433505",
+        "price": "9387.79",
+        "brand": "GORENJE",
+        "name": "GORENJE RKI418FE0"
+    },
+    {
+        "id": "6410995",
+        "price": "11040.25",
+        "brand": "SNAIGE",
+        "name": "SNAIGE CD29DM-S302SE"
+    },
+    {
+        "id": "5853424",
+        "price": "11690.00",
+        "brand": "GORENJE",
+        "name": "GORENJE N6A2XL4"
+    },
+    {
+        "id": "6340860",
+        "price": "3499.01",
+        "brand": "Concept",
+        "name": "CONCEPT LR2047bc RETRO"
+    },
+    {
+        "id": "6524083",
+        "price": "16990.00",
+        "brand": "GORENJE",
+        "name": "GORENJE NRC6194SXL5M"
+    },
+    {
+        "id": "7761161",
+        "price": "22990.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB38T607BS9/EF "
+    },
+    {
+        "id": "5260421",
+        "price": "9169.00",
+        "brand": "AMICA",
+        "name": "AMICA VC 1802 AFX"
+    },
+    {
+        "id": "6744331",
+        "price": "17490.00",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX No Frost ENT6TF18S"
+    },
+    {
+        "id": "7399575",
+        "price": "9680.37",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB33B610ESA/EF"
+    },
+    {
+        "id": "4590287",
+        "price": "9868.46",
+        "brand": "AMICA",
+        "name": "AMICA VD 1442 AM"
+    },
+    {
+        "id": "7325787",
+        "price": "9696.94",
+        "brand": "LG",
+        "name": "LG GBB61SWJMN"
+    },
+    {
+        "id": "6731075",
+        "price": "40638.53",
+        "brand": "LG",
+        "name": "LG GSJV91MCAE "
+    },
+    {
+        "id": "7459995",
+        "price": "12772.37",
+        "brand": "GORENJE",
+        "name": "GORENJE NRC61CSXL4 "
+    },
+    {
+        "id": "7439739",
+        "price": "10638.61",
+        "brand": "GORENJE",
+        "name": "GORENJE R619FEW5"
+    },
+    {
+        "id": "7802091",
+        "price": "3761.26",
+        "brand": "CANDY",
+        "name": "CANDY COHS 38FS"
+    },
+    {
+        "id": "6398149",
+        "price": "12390.00",
+        "brand": "GORENJE",
+        "name": "GORENJE NRK6192ABK4"
+    },
+    {
+        "id": "6150814",
+        "price": "9126.63",
+        "brand": "GORENJE",
+        "name": "GORENJE N619EAXL4"
+    },
+    {
+        "id": "7760111",
+        "price": "44990.00",
+        "brand": "Bosch",
+        "name": "BOSCH KFN96AXEA"
+    },
+    {
+        "id": "7774593",
+        "price": "17454.30",
+        "brand": "GORENJE",
+        "name": "GORENJE NRC69BSXL5"
+    },
+    {
+        "id": "7665812",
+        "price": "13090.00",
+        "brand": "HISENSE",
+        "name": "HISENSE RB470N4EIC"
+    },
+    {
+        "id": "7399574",
+        "price": "9630.57",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB33B610EWW/EF"
+    },
+    {
+        "id": "6796423",
+        "price": "18829.34",
+        "brand": "Bosch",
+        "name": "BOSCH KGN397ICT"
+    },
+    {
+        "id": "5799533",
+        "price": "16415.08",
+        "brand": "Bosch",
+        "name": "BOSCH KGE39AWCA"
+    },
+    {
+        "id": "6703363",
+        "price": "18182.68",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LRB3DE18S"
+    },
+    {
+        "id": "5853430",
+        "price": "8475.06",
+        "brand": "GORENJE",
+        "name": "GORENJE RK6192EW4"
+    },
+    {
+        "id": "6278982",
+        "price": "4569.04",
+        "brand": "CANDY",
+        "name": "CANDY CCTLS 544WHN"
+    },
+    {
+        "id": "6283941",
+        "price": "18989.90",
+        "brand": "HAIER",
+        "name": "HAIER HSR3918ENPG"
+    },
+    {
+        "id": "6153387",
+        "price": "6936.74",
+        "brand": "BEKO",
+        "name": "BEKO RSSA290M31WN"
+    },
+    {
+        "id": "7951211",
+        "price": "12350.14",
+        "brand": "LG",
+        "name": "LG GBV3200DSW"
+    },
+    {
+        "id": "6292406",
+        "price": "7169.00",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LXB1SE11W0"
+    },
+    {
+        "id": "7761167",
+        "price": "14990.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB34C670DWW/EF "
+    },
+    {
+        "id": "7966765",
+        "price": "6091.35",
+        "brand": "GORENJE",
+        "name": "GORENJE R49DPW"
+    },
+    {
+        "id": "2923449",
+        "price": "4284.84",
+        "brand": "Orava",
+        "name": "ORAVA RGO-102 AW"
+    },
+    {
+        "id": "7469968",
+        "price": "10181.46",
+        "brand": "BEKO",
+        "name": "BEKO Beyond B5RCNA365HW"
+    },
+    {
+        "id": "6447171",
+        "price": "16334.36",
+        "brand": "Bosch",
+        "name": "BOSCH KIV86VSE0"
+    },
+    {
+        "id": "6151515",
+        "price": "20967.80",
+        "brand": "Bosch",
+        "name": "BOSCH KIS86AFE0"
+    },
+    {
+        "id": "6389831",
+        "price": "5989.00",
+        "brand": "ETA",
+        "name": "ETA 253590040E"
+    },
+    {
+        "id": "6418985",
+        "price": "13999.00",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL WHC18 T311"
+    },
+    {
+        "id": "7665819",
+        "price": "12890.00",
+        "brand": "HISENSE",
+        "name": "HISENSE RB470N4SIC"
+    },
+    {
+        "id": "5322725",
+        "price": "12050.58",
+        "brand": "AMICA",
+        "name": "AMICA KGCR 387100 L"
+    },
+    {
+        "id": "6788417",
+        "price": "16900.72",
+        "brand": "Bosch",
+        "name": "BOSCH KIN86VSE0"
+    },
+    {
+        "id": "6398151",
+        "price": "20499.83",
+        "brand": "GORENJE",
+        "name": "GORENJE NRS9182VX1"
+    },
+    {
+        "id": "7353247",
+        "price": "10490.00",
+        "brand": "HOOVER",
+        "name": "HOOVER HOCE4T618EB"
+    },
+    {
+        "id": "5260420",
+        "price": "9199.00",
+        "brand": "AMICA",
+        "name": "AMICA VC 1802 AFW"
+    },
+    {
+        "id": "4518037",
+        "price": "3004.72",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 06B"
+    },
+    {
+        "id": "5322723",
+        "price": "12011.89",
+        "brand": "AMICA",
+        "name": "AMICA KGCR 387100 R"
+    },
+    {
+        "id": "6240485",
+        "price": "5146.26",
+        "brand": "BEKO",
+        "name": "BEKO TSE1284N"
+    },
+    {
+        "id": "6389830",
+        "price": "9990.00",
+        "brand": "ETA",
+        "name": "ETA 253390040E"
+    },
+    {
+        "id": "5889132",
+        "price": "32290.00",
+        "brand": "HAIER",
+        "name": "HAIER HTF-520IP7"
+    },
+    {
+        "id": "6223482",
+        "price": "6989.00",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL W55TM 4110 W 1"
+    },
+    {
+        "id": "6110680",
+        "price": "7994.09",
+        "brand": "AMICA",
+        "name": "AMICA VC 1522 X"
+    },
+    {
+        "id": "5494022",
+        "price": "17490.00",
+        "brand": "Concept",
+        "name": "CONCEPT  LA3883ss SINFONIA"
+    },
+    {
+        "id": "6283938",
+        "price": "19543.82",
+        "brand": "HAIER",
+        "name": "HAIER HB17FPAAA"
+    },
+    {
+        "id": "7852719",
+        "price": "18390.00",
+        "brand": "HISENSE",
+        "name": "HISENSE RS711N4WFD"
+    },
+    {
+        "id": "6223499",
+        "price": "13705.04",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL ARZ 0051"
+    },
+    {
+        "id": "7920615",
+        "price": "3749.00",
+        "brand": "CANDY",
+        "name": "CANDY COHS 38EW36"
+    },
+    {
+        "id": "7623694",
+        "price": "25023.09",
+        "brand": "HAIER",
+        "name": "HAIER HFR5720EWMG French Door 70"
+    },
+    {
+        "id": "6223487",
+        "price": "13990.00",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL ART 9811 SF2"
+    },
+    {
+        "id": "6292407",
+        "price": "12529.86",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LFB3AF12S"
+    },
+    {
+        "id": "6928135",
+        "price": "9790.87",
+        "brand": "GORENJE",
+        "name": "GORENJE NRK418ECW4"
+    },
+    {
+        "id": "6489526",
+        "price": "6278.33",
+        "brand": "PHILCO",
+        "name": "PHILCO PTB 117 D"
+    },
+    {
+        "id": "7127104",
+        "price": "18958.46",
+        "brand": "Bosch",
+        "name": "BOSCH KGN397WCT"
+    },
+    {
+        "id": "5799526",
+        "price": "16318.43",
+        "brand": "Bosch",
+        "name": "BOSCH KGE36ALCA"
+    },
+    {
+        "id": "1571780",
+        "price": "4559.00",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 44"
+    },
+    {
+        "id": "7764965",
+        "price": "14178.05",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB38C606DSA/EF"
+    },
+    {
+        "id": "6324731",
+        "price": "8948.61",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR Tb 1400"
+    },
+    {
+        "id": "7127102",
+        "price": "12155.74",
+        "brand": "Bosch",
+        "name": "BOSCH KGN36VWED"
+    },
+    {
+        "id": "6994316",
+        "price": "23514.47",
+        "brand": "Bosch",
+        "name": "BOSCH KGN39LBCF"
+    },
+    {
+        "id": "5853432",
+        "price": "9995.56",
+        "brand": "GORENJE",
+        "name": "GORENJE NRK6202EW4"
+    },
+    {
+        "id": "6318115",
+        "price": "12990.00",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CUel 281"
+    },
+    {
+        "id": "6318111",
+        "price": "11482.77",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CU 281"
+    },
+    {
+        "id": "5548850",
+        "price": "3799.00",
+        "brand": "AMICA",
+        "name": "AMICA VJ 851.4 AW"
+    },
+    {
+        "id": "6156934",
+        "price": "19633.42",
+        "brand": "Bosch",
+        "name": "BOSCH KGE49AWCA"
+    },
+    {
+        "id": "6703364",
+        "price": "22663.40",
+        "brand": "AEG",
+        "name": "AEG Mastery SKE818D1DS"
+    },
+    {
+        "id": "6314810",
+        "price": "6948.38",
+        "brand": "GODDESS",
+        "name": "GODDESS RSD0124GW8F"
+    },
+    {
+        "id": "7243709",
+        "price": "24990.00",
+        "brand": "LG",
+        "name": "LG GBB72MBUBN"
+    },
+    {
+        "id": "6524089",
+        "price": "11492.76",
+        "brand": "GORENJE",
+        "name": "GORENJE NRK6202EBXL4"
+    },
+    {
+        "id": "6223491",
+        "price": "13190.00",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL ART 96101"
+    },
+    {
+        "id": "6274668",
+        "price": "12990.00",
+        "brand": "Bosch",
+        "name": "BOSCH KIV87NSF0"
+    },
+    {
+        "id": "5250162",
+        "price": "4284.84",
+        "brand": "Orava",
+        "name": "ORAVA RGO-101 AW"
+    },
+    {
+        "id": "5825997",
+        "price": "19390.00",
+        "brand": "CANDY",
+        "name": "CANDY CHSBSO 6174XWD"
+    },
+    {
+        "id": "7327759",
+        "price": "14190.00",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL W7X 83T KS 2"
+    },
+    {
+        "id": "7386846",
+        "price": "22511.78",
+        "brand": "Bosch",
+        "name": "BOSCH KGN49VICT"
+    },
+    {
+        "id": "4590289",
+        "price": "9819.00",
+        "brand": "AMICA",
+        "name": "AMICA VD 1442 AR"
+    },
+    {
+        "id": "7386848",
+        "price": "20905.70",
+        "brand": "Bosch",
+        "name": "BOSCH KGN492IDF"
+    },
+    {
+        "id": "2146174",
+        "price": "9999.00",
+        "brand": "PHILCO",
+        "name": "PHILCO PTL 3352"
+    },
+    {
+        "id": "6524925",
+        "price": "16323.98",
+        "brand": "HISENSE",
+        "name": "HISENSE RB645N4BIE"
+    },
+    {
+        "id": "6309054",
+        "price": "6339.83",
+        "brand": "HISENSE",
+        "name": "HISENSE RL313D4AW1"
+    },
+    {
+        "id": "6319673",
+        "price": "6981.17",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR T 1400"
+    },
+    {
+        "id": "7104866",
+        "price": "21280.37",
+        "brand": "Samsung",
+        "name": "SAMSUNG Bespoke RB38A7B6DB1/EF"
+    },
+    {
+        "id": "6366397",
+        "price": "24812.01",
+        "brand": "Samsung",
+        "name": "SAMSUNG RS67A8810S9/EF"
+    },
+    {
+        "id": "6286742",
+        "price": "22024.20",
+        "brand": "HISENSE",
+        "name": "HISENSE RF750N4ISF"
+    },
+    {
+        "id": "7802089",
+        "price": "3445.66",
+        "brand": "CANDY",
+        "name": "CANDY COHS 38F36W"
+    },
+    {
+        "id": "7811731",
+        "price": "7105.41",
+        "brand": "ETA",
+        "name": "ETA 275590000E "
+    },
+    {
+        "id": "6110686",
+        "price": "9769.00",
+        "brand": "AMICA",
+        "name": "AMICA VD 1442 AY"
+    },
+    {
+        "id": "5696050",
+        "price": "8829.37",
+        "brand": "AMICA",
+        "name": "AMICA VC 1752 AW"
+    },
+    {
+        "id": "7127101",
+        "price": "14329.18",
+        "brand": "Bosch",
+        "name": "BOSCH KGN362WDF"
+    },
+    {
+        "id": "2923286",
+        "price": "4416.02",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 102"
+    },
+    {
+        "id": "5713440",
+        "price": "8273.73",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 117B"
+    },
+    {
+        "id": "6318110",
+        "price": "11490.00",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CU 231"
+    },
+    {
+        "id": "6110689",
+        "price": "8599.00",
+        "brand": "AMICA",
+        "name": "AMICA VJ 1442 L"
+    },
+    {
+        "id": "6581523",
+        "price": "6989.00",
+        "brand": "ETA",
+        "name": "ETA 253690030E"
+    },
+    {
+        "id": "6161072",
+        "price": "13072.68",
+        "brand": "GORENJE",
+        "name": "GORENJE NRS8182KX"
+    },
+    {
+        "id": "7628833",
+        "price": "15672.15",
+        "brand": "Samsung",
+        "name": "SAMSUNG BRB26600FWW/EF"
+    },
+    {
+        "id": "6393998",
+        "price": "9513.95",
+        "brand": "SNAIGE",
+        "name": "SNAIGE FR24SM-PRC30E"
+    },
+    {
+        "id": "5612026",
+        "price": "10760.09",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CTel 2131"
+    },
+    {
+        "id": "6292399",
+        "price": "13590.00",
+        "brand": "AEG",
+        "name": "AEG Mastery SCB618F3LS"
+    },
+    {
+        "id": "7760110",
+        "price": "17539.36",
+        "brand": "Bosch",
+        "name": "BOSCH KGN367WCT"
+    },
+    {
+        "id": "6447172",
+        "price": "17581.89",
+        "brand": "Bosch",
+        "name": "BOSCH KIV87VFE0"
+    },
+    {
+        "id": "7197960",
+        "price": "15990.00",
+        "brand": "GORENJE",
+        "name": "GORENJE NRK62CAW4"
+    },
+    {
+        "id": "7009208",
+        "price": "8863.27",
+        "brand": "INDESIT",
+        "name": "INDESIT  LI7 S2E S"
+    },
+    {
+        "id": "6366399",
+        "price": "25996.08",
+        "brand": "Samsung",
+        "name": "SAMSUNG RS67A8811B1/EF"
+    },
+    {
+        "id": "6372264",
+        "price": "25990.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG RS66A8101S9/EF"
+    },
+    {
+        "id": "7386845",
+        "price": "25410.13",
+        "brand": "Bosch",
+        "name": "BOSCH KGN49AICT"
+    },
+    {
+        "id": "5838434",
+        "price": "4999.01",
+        "brand": "Concept",
+        "name": "CONCEPT LT3560WH"
+    },
+    {
+        "id": "6471141",
+        "price": "4999.01",
+        "brand": "Concept",
+        "name": "CONCEPT MZ3555wh"
+    },
+    {
+        "id": "6366400",
+        "price": "31279.86",
+        "brand": "Samsung",
+        "name": "SAMSUNG RS67A8511S9/EF"
+    },
+    {
+        "id": "6390239",
+        "price": "6499.00",
+        "brand": "AMICA",
+        "name": "AMICA VD 1441 EBW"
+    },
+    {
+        "id": "6226123",
+        "price": "20990.00",
+        "brand": "GORENJE",
+        "name": "GORENJE NRS9181VX"
+    },
+    {
+        "id": "3990196",
+        "price": "7287.14",
+        "brand": "AMICA",
+        "name": "AMICA UKS 16148"
+    },
+    {
+        "id": "6572874",
+        "price": "3668.24",
+        "brand": "Concept",
+        "name": "CONCEPT LTR3047wh RETRO"
+    },
+    {
+        "id": "7177014",
+        "price": "21990.00",
+        "brand": "HAIER",
+        "name": "HAIER HFR5719EWMG "
+    },
+    {
+        "id": "6283933",
+        "price": "9622.53",
+        "brand": "CANDY",
+        "name": "CANDY CHOL 6174W/N"
+    },
+    {
+        "id": "7122220",
+        "price": "24990.00",
+        "brand": "LG",
+        "name": "LG GSLV50PZXE"
+    },
+    {
+        "id": "4590288",
+        "price": "9519.00",
+        "brand": "AMICA",
+        "name": "AMICA VD 1442 AB"
+    },
+    {
+        "id": "6448502",
+        "price": "9043.63",
+        "brand": "INDESIT",
+        "name": "INDESIT INFC8 TI21X"
+    },
+    {
+        "id": "5557261",
+        "price": "13344.77",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CUno 2831"
+    },
+    {
+        "id": "7084743",
+        "price": "5706.68",
+        "brand": "PHILCO",
+        "name": "PHILCO PT 204 EX"
+    },
+    {
+        "id": "7761163",
+        "price": "22290.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB38C705CB1/EF "
+    },
+    {
+        "id": "5832960",
+        "price": "14761.25",
+        "brand": "SEVERIN",
+        "name": "SEVERIN RKG 8925"
+    },
+    {
+        "id": "6110681",
+        "price": "5828.11",
+        "brand": "AMICA",
+        "name": "AMICA VJ 12313 W"
+    },
+    {
+        "id": "7761165",
+        "price": "27118.21",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB38C607AB1/EF "
+    },
+    {
+        "id": "5633378",
+        "price": "44223.70",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL WQ9 B2L"
+    },
+    {
+        "id": "5696049",
+        "price": "10160.52",
+        "brand": "AMICA",
+        "name": "AMICA VC 1752 AX"
+    },
+    {
+        "id": "6311268",
+        "price": "10490.00",
+        "brand": "ETA",
+        "name": "ETA 253490030E Storio"
+    },
+    {
+        "id": "6318107",
+        "price": "10249.40",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CTP 231"
+    },
+    {
+        "id": "5260521",
+        "price": "7799.00",
+        "brand": "AMICA",
+        "name": "AMICA VT 862 AL"
+    },
+    {
+        "id": "6292962",
+        "price": "7419.00",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LXB1AE13W0"
+    },
+    {
+        "id": "4727015",
+        "price": "3299.00",
+        "brand": "AMICA",
+        "name": "AMICA VM 501 AW"
+    },
+    {
+        "id": "7404880",
+        "price": "13394.03",
+        "brand": "HAIER",
+        "name": "HAIER HDW3618DNPK"
+    },
+    {
+        "id": "5723045",
+        "price": "5479.00",
+        "brand": "PHILCO",
+        "name": "PHILCO  PTB 1132"
+    },
+    {
+        "id": "5896324",
+        "price": "7399.00",
+        "brand": "AMICA",
+        "name": "AMICA VC 1522 W"
+    },
+    {
+        "id": "6292400",
+        "price": "12348.04",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LNT2LF18S"
+    },
+    {
+        "id": "7230979",
+        "price": "20990.00",
+        "brand": "GORENJE",
+        "name": "GORENJE NS9DXLWD"
+    },
+    {
+        "id": "6223494",
+        "price": "11384.64",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL ART 65011"
+    },
+    {
+        "id": "6162156",
+        "price": "7639.13",
+        "brand": "BEKO",
+        "name": "BEKO CSA240K30SN"
+    },
+    {
+        "id": "5832959",
+        "price": "13811.47",
+        "brand": "SEVERIN",
+        "name": "SEVERIN RKG 8922"
+    },
+    {
+        "id": "5260422",
+        "price": "10195.04",
+        "brand": "AMICA",
+        "name": "AMICA VD 1442 AL"
+    },
+    {
+        "id": "6489523",
+        "price": "9419.00",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR GKw 1455-1 "
+    },
+    {
+        "id": "7761174",
+        "price": "12990.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB34C600DWW/EF "
+    },
+    {
+        "id": "6223498",
+        "price": "15200.29",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL ARG 180701"
+    },
+    {
+        "id": "6253199",
+        "price": "11828.10",
+        "brand": "GORENJE",
+        "name": "GORENJE NRK6192SYBK"
+    },
+    {
+        "id": "7747096",
+        "price": "12798.92",
+        "brand": "LORD",
+        "name": "LORD C21"
+    },
+    {
+        "id": "5896323",
+        "price": "6740.82",
+        "brand": "AMICA",
+        "name": "AMICA VJ 12324 W"
+    },
+    {
+        "id": "6394001",
+        "price": "10466.29",
+        "brand": "SNAIGE",
+        "name": "SNAIGE FR24SM-PROC0E"
+    },
+    {
+        "id": "5478832",
+        "price": "41720.24",
+        "brand": "HAIER",
+        "name": "HAIER HB18 FGSAAA"
+    },
+    {
+        "id": "6448529",
+        "price": "18199.08",
+        "brand": "Samsung",
+        "name": "SAMSUNG BRB26605FWW/EF"
+    },
+    {
+        "id": "7774595",
+        "price": "17350.35",
+        "brand": "GORENJE",
+        "name": "GORENJE NRR9185DAXL"
+    },
+    {
+        "id": "7811153",
+        "price": "21990.00",
+        "brand": "LG",
+        "name": "LG GSBV70PZTE"
+    },
+    {
+        "id": "7764964",
+        "price": "16074.68",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB34C605CS9/EF"
+    },
+    {
+        "id": "6489541",
+        "price": "17990.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG Bespoke RB38A7B6D12/EF"
+    },
+    {
+        "id": "6448530",
+        "price": "19450.18",
+        "brand": "Samsung",
+        "name": "SAMSUNG BRB26605EWW/EF"
+    },
+    {
+        "id": "7469966",
+        "price": "11737.17",
+        "brand": "BEKO",
+        "name": "BEKO Beyond B5RCNA365HXB"
+    },
+    {
+        "id": "6469394",
+        "price": "11735.20",
+        "brand": "GORENJE",
+        "name": "GORENJE RKI4182A1"
+    },
+    {
+        "id": "5574836",
+        "price": "26486.61",
+        "brand": "HAIER",
+        "name": "HAIER B3FE742CMJW"
+    },
+    {
+        "id": "5864840",
+        "price": "27190.00",
+        "brand": "AEG",
+        "name": "AEG Mastery RCB646E3MB"
+    },
+    {
+        "id": "6166974",
+        "price": "24192.29",
+        "brand": "GORENJE",
+        "name": "GORENJE NRS9182VXB1"
+    },
+    {
+        "id": "6991213",
+        "price": "11498.51",
+        "brand": "CANDY",
+        "name": "CANDY CCE4T618EB"
+    },
+    {
+        "id": "5775843",
+        "price": "17690.00",
+        "brand": "HAIER",
+        "name": "HAIER A3FE837CGJ"
+    },
+    {
+        "id": "5842139",
+        "price": "9142.09",
+        "brand": "SEVERIN",
+        "name": "SEVERIN DT 8763"
+    },
+    {
+        "id": "6418982",
+        "price": "19683.81",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL WHC20 T352"
+    },
+    {
+        "id": "6292959",
+        "price": "7102.97",
+        "brand": "AEG",
+        "name": "AEG RTB411E1AW"
+    },
+    {
+        "id": "7230579",
+        "price": "17356.71",
+        "brand": "GORENJE",
+        "name": "GORENJE NRC620CSXL4WF ConnectLife"
+    },
+    {
+        "id": "6319670",
+        "price": "10287.14",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR K 230"
+    },
+    {
+        "id": "6223488",
+        "price": "18864.99",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL SP40 800 EU 1"
+    },
+    {
+        "id": "6223483",
+        "price": "46261.47",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL WQ9I MO1L"
+    },
+    {
+        "id": "6223480",
+        "price": "9415.97",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL W5 811E OX 1"
+    },
+    {
+        "id": "6398150",
+        "price": "13290.00",
+        "brand": "GORENJE",
+        "name": "GORENJE NRK6192AC4"
+    },
+    {
+        "id": "7500099",
+        "price": "16190.00",
+        "brand": "HISENSE",
+        "name": "HISENSE RS677N4BFE"
+    },
+    {
+        "id": "7169430",
+        "price": "10354.10",
+        "brand": "CANDY",
+        "name": "CANDY CCE3T618ES"
+    },
+    {
+        "id": "7762174",
+        "price": "12784.70",
+        "brand": "Comfee",
+        "name": "MIDEA MDRB470MGC02"
+    },
+    {
+        "id": "7501266",
+        "price": "29748.79",
+        "brand": "Bosch",
+        "name": "BOSCH KGN86AIDR"
+    },
+    {
+        "id": "7503358",
+        "price": "4731.92",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 09B1"
+    },
+    {
+        "id": "6110683",
+        "price": "11232.10",
+        "brand": "AMICA",
+        "name": "AMICA VC 1622 M"
+    },
+    {
+        "id": "7501267",
+        "price": "33064.74",
+        "brand": "Bosch",
+        "name": "BOSCH KGN39AIAT"
+    },
+    {
+        "id": "6278979",
+        "price": "7169.70",
+        "brand": "CANDY",
+        "name": "CANDY CMDDS 5142SN"
+    },
+    {
+        "id": "6804349",
+        "price": "5405.36",
+        "brand": "ROMO",
+        "name": "ROMO RT2134W"
+    },
+    {
+        "id": "7623265",
+        "price": "8346.27",
+        "brand": "CANDY",
+        "name": "CANDY CDV1S514ESHE"
+    },
+    {
+        "id": "7670401",
+        "price": "7609.68",
+        "brand": "ROMO",
+        "name": "Romo RSA242W"
+    },
+    {
+        "id": "7142279",
+        "price": "11239.64",
+        "brand": "HISENSE",
+        "name": "HISENSE RB440N4ACD"
+    },
+    {
+        "id": "6223502",
+        "price": "9889.00",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL ART 3801"
+    },
+    {
+        "id": "5864835",
+        "price": "24390.00",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LNT7ME46X2"
+    },
+    {
+        "id": "6448534",
+        "price": "17132.72",
+        "brand": "SNAIGE",
+        "name": "SNAIGE CD35DM-S300CD"
+    },
+    {
+        "id": "6389827",
+        "price": "7317.69",
+        "brand": "GODDESS",
+        "name": "GODDESS RCE0142GX9E"
+    },
+    {
+        "id": "4508900",
+        "price": "17245.63",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR TPesf 1710"
+    },
+    {
+        "id": "4590293",
+        "price": "7240.49",
+        "brand": "AMICA",
+        "name": "AMICA VT 862 AB"
+    },
+    {
+        "id": "7544077",
+        "price": "22932.61",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX ENC8ME18R NoFrost"
+    },
+    {
+        "id": "6549608",
+        "price": "3079.38",
+        "brand": "PHILCO",
+        "name": "PHILCO PSB 401 B Cube"
+    },
+    {
+        "id": "7386847",
+        "price": "20735.23",
+        "brand": "Bosch",
+        "name": "BOSCH KGN49VWDT"
+    },
+    {
+        "id": "6161211",
+        "price": "3069.64",
+        "brand": "PHILCO",
+        "name": "PHILCO PSB 401 X Cube"
+    },
+    {
+        "id": "6389832",
+        "price": "4293.60",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 44W"
+    },
+    {
+        "id": "6110687",
+        "price": "8954.38",
+        "brand": "AMICA",
+        "name": "AMICA VJ 1442 M"
+    },
+    {
+        "id": "7966764",
+        "price": "19990.00",
+        "brand": "GORENJE",
+        "name": "GORENJE R619CSXL6"
+    },
+    {
+        "id": "7327758",
+        "price": "12990.00",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL W7X 83T MX"
+    },
+    {
+        "id": "5842129",
+        "price": "11390.00",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LNT5MF32W0"
+    },
+    {
+        "id": "4590292",
+        "price": "7265.63",
+        "brand": "AMICA",
+        "name": "AMICA VT 862 AM"
+    },
+    {
+        "id": "6690863",
+        "price": "12546.53",
+        "brand": "ETA",
+        "name": "ETA 254990000E "
+    },
+    {
+        "id": "7075561",
+        "price": "21615.09",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNd 5723"
+    },
+    {
+        "id": "7500090",
+        "price": "28633.77",
+        "brand": "HISENSE",
+        "name": "HISENSE RS818N4TFE"
+    },
+    {
+        "id": "5799532",
+        "price": "20345.00",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KG49NXIEP"
+    },
+    {
+        "id": "6489529",
+        "price": "20690.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG Bespoke RB38A7B63S9/EF"
+    },
+    {
+        "id": "7469967",
+        "price": "11144.76",
+        "brand": "BEKO",
+        "name": "BEKO Beyond B5RCNA405HXB"
+    },
+    {
+        "id": "6469018",
+        "price": "8991.17",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR T 1700"
+    },
+    {
+        "id": "6977949",
+        "price": "4990.00",
+        "brand": "Klarstein",
+        "name": "KLARSTEIN Cool Vibe"
+    },
+    {
+        "id": "6994314",
+        "price": "16990.00",
+        "brand": "Bosch",
+        "name": "BOSCH KGN39VLEB"
+    },
+    {
+        "id": "6283936",
+        "price": "69990.00",
+        "brand": "HAIER",
+        "name": "HAIER HFF-750CGBJ"
+    },
+    {
+        "id": "7500091",
+        "price": "18424.67",
+        "brand": "HISENSE",
+        "name": "HISENSE RB645N4BFE"
+    },
+    {
+        "id": "7079087",
+        "price": "26287.36",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR SRbde 5220"
+    },
+    {
+        "id": "7290723",
+        "price": "12837.70",
+        "brand": "CANDY",
+        "name": "CANDY CCE7T620DS"
+    },
+    {
+        "id": "7999734",
+        "price": "25990.00",
+        "brand": "HISENSE",
+        "name": "HISENSE RF815N4SESE"
+    },
+    {
+        "id": "6489782",
+        "price": "6448.36",
+        "brand": "PHILCO",
+        "name": "PHILCO PTL 131 D"
+    },
+    {
+        "id": "7761170",
+        "price": "12769.70",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB34C600DSA/EF "
+    },
+    {
+        "id": "5832956",
+        "price": "13539.95",
+        "brand": "SEVERIN",
+        "name": "SEVERIN RKG 8923"
+    },
+    {
+        "id": "6318108",
+        "price": "10750.61",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CTPel 231"
+    },
+    {
+        "id": "5842137",
+        "price": "9142.09",
+        "brand": "SEVERIN",
+        "name": "SEVERIN DT 8761"
+    },
+    {
+        "id": "6928194",
+        "price": "8847.30",
+        "brand": "SNAIGE",
+        "name": "SNAIGE RF27SM-P0002E"
+    },
+    {
+        "id": "6308536",
+        "price": "9514.47",
+        "brand": "SNAIGE",
+        "name": "SNAIGE RF53SM-S5JJ2F"
+    },
+    {
+        "id": "7176161",
+        "price": "44557.66",
+        "brand": "Samsung",
+        "name": "SAMSUNG RH69B8941B1/EF"
+    },
+    {
+        "id": "6524085",
+        "price": "18919.33",
+        "brand": "GORENJE",
+        "name": "GORENJE NRC6204SXL5M"
+    },
+    {
+        "id": "7738109",
+        "price": "12349.34",
+        "brand": "BEKO",
+        "name": "BEKO Beyond B5RCNA406HXB1"
+    },
+    {
+        "id": "6110688",
+        "price": "9698.54",
+        "brand": "AMICA",
+        "name": "AMICA VJ 1442 R"
+    },
+    {
+        "id": "6939492",
+        "price": "9499.00",
+        "brand": "CHiQ",
+        "name": "CHiQ CBM250NE1EA"
+    },
+    {
+        "id": "6153375",
+        "price": "6199.00",
+        "brand": "BEKO",
+        "name": "BEKO RDSA240K30WN"
+    },
+    {
+        "id": "7256433",
+        "price": "11082.17",
+        "brand": "CANDY",
+        "name": "CANDY CCE4T620EW"
+    },
+    {
+        "id": "7811726",
+        "price": "11990.00",
+        "brand": "ETA",
+        "name": "ETA 139190001D"
+    },
+    {
+        "id": "5842136",
+        "price": "9142.09",
+        "brand": "SEVERIN",
+        "name": "SEVERIN DT 8762"
+    },
+    {
+        "id": "7774592",
+        "price": "18990.00",
+        "brand": "GORENJE",
+        "name": "GORENJE NRR9185EABXL"
+    },
+    {
+        "id": "7815455",
+        "price": "10390.00",
+        "brand": "CANDY",
+        "name": "CANDY CBL3519FW"
+    },
+    {
+        "id": "6703358",
+        "price": "18441.95",
+        "brand": "AEG",
+        "name": "AEG Mastery CustomFlex SCE618E5TS"
+    },
+    {
+        "id": "7333196",
+        "price": "19833.04",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR KGNsdd 57Z23"
+    },
+    {
+        "id": "6977936",
+        "price": "6459.00",
+        "brand": "Klarstein",
+        "name": "KLARSTEIN Beersafe XL Quartz"
+    },
+    {
+        "id": "7766709",
+        "price": "29990.00",
+        "brand": "LG",
+        "name": "LG GSLV70PZTD"
+    },
+    {
+        "id": "7333193",
+        "price": "18818.77",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR KGNsfd 57Z03"
+    },
+    {
+        "id": "7359970",
+        "price": "23127.29",
+        "brand": "HOOVER",
+        "name": "HOOVER HSF818EXWD"
+    },
+    {
+        "id": "7075557",
+        "price": "23481.73",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNd 5724"
+    },
+    {
+        "id": "7951206",
+        "price": "24976.40",
+        "brand": "LG",
+        "name": "LG GBV7280AEV"
+    },
+    {
+        "id": "6223496",
+        "price": "11917.24",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL ART 66102"
+    },
+    {
+        "id": "7075555",
+        "price": "22637.85",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNd 5224"
+    },
+    {
+        "id": "7742309",
+        "price": "8269.00",
+        "brand": "HOOVER",
+        "name": "HOOVER HOCT3L517EW2"
+    },
+    {
+        "id": "7290914",
+        "price": "12754.05",
+        "brand": "HOOVER",
+        "name": "HOOVER HOCE7620DX"
+    },
+    {
+        "id": "7650379",
+        "price": "20852.55",
+        "brand": "HAIER",
+        "name": "HAIER HSR5918DWMP"
+    },
+    {
+        "id": "7764966",
+        "price": "13990.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB38C600DSA/EF"
+    },
+    {
+        "id": "7544078",
+        "price": "21911.15",
+        "brand": "AEG",
+        "name": "AEG SCE818E8MF NoFrost"
+    },
+    {
+        "id": "5832968",
+        "price": "11904.04",
+        "brand": "SEVERIN",
+        "name": "SEVERIN RKG 8930"
+    },
+    {
+        "id": "7951207",
+        "price": "34990.00",
+        "brand": "LG",
+        "name": "LG GSLV71PZRC"
+    },
+    {
+        "id": "7852746",
+        "price": "19754.65",
+        "brand": "LG",
+        "name": "LG GSLV31DSXE"
+    },
+    {
+        "id": "5832961",
+        "price": "15237.44",
+        "brand": "SEVERIN",
+        "name": "SEVERIN RKG 8920"
+    },
+    {
+        "id": "6436247",
+        "price": "16180.37",
+        "brand": "SNAIGE",
+        "name": "SNAIGE CD35DM-S300SD"
+    },
+    {
+        "id": "6977941",
+        "price": "3899.00",
+        "brand": "Klarstein",
+        "name": "KLARSTEIN Scooby"
+    },
+    {
+        "id": "7761153",
+        "price": "22590.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG Bespoke RB38C7B6BS9/EF "
+    },
+    {
+        "id": "8008646",
+        "price": "28704.91",
+        "brand": "Bosch",
+        "name": "BOSCH KIN96VFD0"
+    },
+    {
+        "id": "7333194",
+        "price": "15466.60",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR KGNsff 52Z03"
+    },
+    {
+        "id": "7623695",
+        "price": "13730.92",
+        "brand": "HAIER",
+        "name": "HAIER HDW3618DNPB"
+    },
+    {
+        "id": "7852721",
+        "price": "11990.00",
+        "brand": "HISENSE",
+        "name": "HISENSE RB390N4BC31"
+    },
+    {
+        "id": "7857934",
+        "price": "14710.70",
+        "brand": "Maxxo",
+        "name": "Maxxo BC358L-C"
+    },
+    {
+        "id": "7737463",
+        "price": "3727.64",
+        "brand": "GUZZANTI",
+        "name": "Guzzanti GZ 90A"
+    },
+    {
+        "id": "7857935",
+        "price": "11126.08",
+        "brand": "Maxxo",
+        "name": "Maxxo BC237L-C"
+    },
+    {
+        "id": "7781308",
+        "price": "8634.68",
+        "brand": "Siguro",
+        "name": "Siguro BI-N130W Vivid"
+    },
+    {
+        "id": "6744326",
+        "price": "20858.44",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX FlexiShelf KNT4FD18S"
+    },
+    {
+        "id": "6937639",
+        "price": "42608.36",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBd 4150"
+    },
+    {
+        "id": "7764962",
+        "price": "14873.77",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB38C600DB1/EF"
+    },
+    {
+        "id": "5719187",
+        "price": "6390.00",
+        "brand": "CANDY",
+        "name": "CANDY CFBD 2450/2E"
+    },
+    {
+        "id": "7404881",
+        "price": "13735.86",
+        "brand": "HAIER",
+        "name": "HAIER HDW1620DNPK"
+    },
+    {
+        "id": "7781309",
+        "price": "6990.00",
+        "brand": "Siguro",
+        "name": "SIGURO MC-J140W"
+    },
+    {
+        "id": "7888805",
+        "price": "11076.73",
+        "brand": "BEKO",
+        "name": "BEKO Beyond B5RCNA405HXBR1"
+    },
+    {
+        "id": "7005251",
+        "price": "12076.61",
+        "brand": "HISENSE",
+        "name": "HISENSE RB372N4CCD"
+    },
+    {
+        "id": "8008647",
+        "price": "15138.79",
+        "brand": "Bosch",
+        "name": "BOSCH KIV86NSE0"
+    },
+    {
+        "id": "7761169",
+        "price": "18088.85",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB38C602CSA/EF "
+    },
+    {
+        "id": "7999735",
+        "price": "26818.41",
+        "brand": "HISENSE",
+        "name": "HISENSE RQ758N4SBFE"
+    },
+    {
+        "id": "5832967",
+        "price": "7633.95",
+        "brand": "SEVERIN",
+        "name": "SEVERIN RKS 8831"
+    },
+    {
+        "id": "7752629",
+        "price": "27710.49",
+        "brand": "HISENSE",
+        "name": "HISENSE RQ758N4BSE"
+    },
+    {
+        "id": "7599754",
+        "price": "21200.53",
+        "brand": "Bosch",
+        "name": "BOSCH KGE398IBP"
+    },
+    {
+        "id": "5832970",
+        "price": "8881.99",
+        "brand": "SEVERIN",
+        "name": "SEVERIN RKS 8830"
+    },
+    {
+        "id": "6394014",
+        "price": "9037.78",
+        "brand": "SNAIGE",
+        "name": "SNAIGE C31SM-T1002F"
+    },
+    {
+        "id": "7811727",
+        "price": "9989.00",
+        "brand": "ETA",
+        "name": "ETA 275690010E"
+    },
+    {
+        "id": "6937669",
+        "price": "46591.35",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR ICNe 5133"
+    },
+    {
+        "id": "7339582",
+        "price": "8990.00",
+        "brand": "ETA",
+        "name": "ETA 275290000E "
+    },
+    {
+        "id": "7640857",
+        "price": "39990.00",
+        "brand": "Concept",
+        "name": "CONCEPT LA7991bc BLACK"
+    },
+    {
+        "id": "6223490",
+        "price": "19290.00",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL SP40 801 EU 1"
+    },
+    {
+        "id": "8008648",
+        "price": "15138.79",
+        "brand": "Bosch",
+        "name": "BOSCH KIV87NSE0"
+    },
+    {
+        "id": "7468591",
+        "price": "29990.00",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX ECB7TE70S NoFrost"
+    },
+    {
+        "id": "7333192",
+        "price": "17039.32",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR KGNsfd 52Z03"
+    },
+    {
+        "id": "8134049",
+        "price": "28120.56",
+        "brand": "Bosch",
+        "name": "BOSCH KGN39VXAT"
+    },
+    {
+        "id": "6697940",
+        "price": "4696.59",
+        "brand": "Nedis",
+        "name": "NEDIS KAPC030SS"
+    },
+    {
+        "id": "6977879",
+        "price": "39289.95",
+        "brand": "Bosch",
+        "name": "BOSCH KFN96VPEA"
+    },
+    {
+        "id": "6447124",
+        "price": "7618.24",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 8818"
+    },
+    {
+        "id": "8008649",
+        "price": "29877.28",
+        "brand": "Bosch",
+        "name": "BOSCH KIF81PFE0"
+    },
+    {
+        "id": "6713704",
+        "price": "27990.00",
+        "brand": "HAIER",
+        "name": "HAIER HFW7720ENMB"
+    },
+    {
+        "id": "7414238",
+        "price": "40890.00",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX ELT9VE52M0 NoFrost"
+    },
+    {
+        "id": "6283940",
+        "price": "22467.11",
+        "brand": "HAIER",
+        "name": "HAIER HSR3918EWPG"
+    },
+    {
+        "id": "7763369",
+        "price": "18990.00",
+        "brand": "AEG",
+        "name": "AEG 6000 TwinTech RCB636E8MX"
+    },
+    {
+        "id": "7850420",
+        "price": "11832.32",
+        "brand": "BEKO",
+        "name": "BEKO Beyond B5RCNA366HG"
+    },
+    {
+        "id": "5832974",
+        "price": "8570.65",
+        "brand": "SEVERIN",
+        "name": "SEVERIN RKS 8833"
+    },
+    {
+        "id": "6994313",
+        "price": "17233.45",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KG39N2IDF"
+    },
+    {
+        "id": "6318105",
+        "price": "11629.59",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CTP 251"
+    },
+    {
+        "id": "7970866",
+        "price": "22971.31",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 600 TwinTech ENT6ME19S"
+    },
+    {
+        "id": "7951166",
+        "price": "5237.25",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 70G"
+    },
+    {
+        "id": "5832972",
+        "price": "8570.65",
+        "brand": "SEVERIN",
+        "name": "SEVERIN RKS 8834"
+    },
+    {
+        "id": "5832969",
+        "price": "8570.65",
+        "brand": "SEVERIN",
+        "name": "SEVERIN RKS 8832"
+    },
+    {
+        "id": "7853701",
+        "price": "20458.05",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR KGNsdc 57Z03"
+    },
+    {
+        "id": "7763378",
+        "price": "20956.85",
+        "brand": "AEG",
+        "name": "AEG 8000 Cooling 360 RCB732D7MX"
+    },
+    {
+        "id": "7075558",
+        "price": "22654.08",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNd 5734"
+    },
+    {
+        "id": "6410993",
+        "price": "72352.58",
+        "brand": "LG",
+        "name": "LG GMX945MC9F "
+    },
+    {
+        "id": "7781310",
+        "price": "7490.00",
+        "brand": "Siguro",
+        "name": "SIGURO MC-J140S"
+    },
+    {
+        "id": "6703356",
+        "price": "13590.00",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LNT3FF18S"
+    },
+    {
+        "id": "7811728",
+        "price": "8989.00",
+        "brand": "ETA",
+        "name": "ETA 275690000E"
+    },
+    {
+        "id": "6228593",
+        "price": "4445.31",
+        "brand": "GUZZANTI",
+        "name": "Guzzanti GZ 24G"
+    },
+    {
+        "id": "7760112",
+        "price": "19089.43",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KI41RADD1"
+    },
+    {
+        "id": "5864845",
+        "price": "23822.76",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LNT7ME34G1"
+    },
+    {
+        "id": "6572876",
+        "price": "6469.00",
+        "brand": "PHILCO",
+        "name": "PHILCO PC 165 E"
+    },
+    {
+        "id": "6926628",
+        "price": "12763.53",
+        "brand": "SNAIGE",
+        "name": "SNAIGE CC35DM-P600FD"
+    },
+    {
+        "id": "6862243",
+        "price": "15010.10",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KU15RADF0"
+    },
+    {
+        "id": "7763377",
+        "price": "17755.25",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 600 DynamicAir LRS2DE39W"
+    },
+    {
+        "id": "7763376",
+        "price": "15911.15",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 700 MultiFlow LRT6ME38W1"
+    },
+    {
+        "id": "7414459",
+        "price": "17927.08",
+        "brand": "AEG",
+        "name": "AEG SCB819F8FS LowFrost"
+    },
+    {
+        "id": "7789595",
+        "price": "21808.68",
+        "brand": "Bosch",
+        "name": "BOSCH KGE398XBA"
+    },
+    {
+        "id": "7359971",
+        "price": "30912.09",
+        "brand": "HAIER",
+        "name": "HAIER HSR5918DIPB"
+    },
+    {
+        "id": "6389835",
+        "price": "18490.00",
+        "brand": "PHILCO",
+        "name": "PHILCO PTL 1772 EBI"
+    },
+    {
+        "id": "7962435",
+        "price": "17537.53",
+        "brand": "AEG",
+        "name": "AEG 6000 Twintech OSC6N181ES"
+    },
+    {
+        "id": "7997042",
+        "price": "15050.60",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR ICNSf 5103"
+    },
+    {
+        "id": "7699199",
+        "price": "18878.87",
+        "brand": "Concept",
+        "name": "CONCEPT LKR7460bcr Retro R"
+    },
+    {
+        "id": "7763380",
+        "price": "18490.00",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 500 ColdSense LND5FE18S"
+    },
+    {
+        "id": "7761159",
+        "price": "21024.16",
+        "brand": "Samsung",
+        "name": "SAMSUNG Bespoke RB38C7B6D41/EF  "
+    },
+    {
+        "id": "7888807",
+        "price": "10851.26",
+        "brand": "BEKO",
+        "name": "BEKO Beyond B5RCNA405HG"
+    },
+    {
+        "id": "6318112",
+        "price": "13118.25",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CU 331"
+    },
+    {
+        "id": "7997041",
+        "price": "15050.60",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR ICNf 5103"
+    },
+    {
+        "id": "7763386",
+        "price": "14318.96",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 600 TwinTech LNT5ME36W1"
+    },
+    {
+        "id": "7951167",
+        "price": "15764.17",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 363"
+    },
+    {
+        "id": "6318109",
+        "price": "11383.43",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CTPel 251"
+    },
+    {
+        "id": "7745772",
+        "price": "9051.45",
+        "brand": "SNAIGE",
+        "name": "SNAIGE CD14SM-S3003C"
+    },
+    {
+        "id": "6703374",
+        "price": "15590.00",
+        "brand": "AEG",
+        "name": "AEG Mastery NoFrost SCB618F6TS"
+    },
+    {
+        "id": "7986278",
+        "price": "17190.00",
+        "brand": "Concept",
+        "name": "CONCEPT LK6560SS"
+    },
+    {
+        "id": "6228592",
+        "price": "4405.55",
+        "brand": "GUZZANTI",
+        "name": "Guzzanti GZ 28S"
+    },
+    {
+        "id": "7763390",
+        "price": "14278.35",
+        "brand": "AEG",
+        "name": "AEG 6000 TwinTech RCB632E6MW"
+    },
+    {
+        "id": "5548854",
+        "price": "4999.01",
+        "brand": "AMICA",
+        "name": "AMICA VJ 852.3 AW"
+    },
+    {
+        "id": "7763384",
+        "price": "13894.55",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 600 TwinTech LNT5ME32U1"
+    },
+    {
+        "id": "5864843",
+        "price": "22012.17",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LNT7ME34K1"
+    },
+    {
+        "id": "7051714",
+        "price": "14690.01",
+        "brand": "PHILCO",
+        "name": "PHILCO PCD 3132 ENFX"
+    },
+    {
+        "id": "7811730",
+        "price": "13007.89",
+        "brand": "ETA",
+        "name": "ETA 336290010CN"
+    },
+    {
+        "id": "6151518",
+        "price": "44490.00",
+        "brand": "Bosch",
+        "name": "BOSCH KAD93AIEP"
+    },
+    {
+        "id": "6469020",
+        "price": "10229.50",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR T 1810"
+    },
+    {
+        "id": "7747098",
+        "price": "12590.00",
+        "brand": "LORD",
+        "name": "LORD C19"
+    },
+    {
+        "id": "6852418",
+        "price": "12696.08",
+        "brand": "LORD",
+        "name": "LORD R7"
+    },
+    {
+        "id": "5608226",
+        "price": "7789.00",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 117A"
+    },
+    {
+        "id": "7815429",
+        "price": "20000.26",
+        "brand": "HOOVER",
+        "name": "HOOVER HHCR3818EWPL"
+    },
+    {
+        "id": "7899033",
+        "price": "12705.50",
+        "brand": "MORA",
+        "name": "MORA VCN 1832"
+    },
+    {
+        "id": "7234044",
+        "price": "4290.00",
+        "brand": "GODDESS",
+        "name": "GODDESS RSE084GW8SF"
+    },
+    {
+        "id": "6675950",
+        "price": "5040.98",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 44GW"
+    },
+    {
+        "id": "8072741",
+        "price": "9596.01",
+        "brand": "HISENSE",
+        "name": "HISENSE RB390N4BW20"
+    },
+    {
+        "id": "6864189",
+        "price": "1859.66",
+        "brand": "Nedis",
+        "name": "NEDIS KAFR120CRD "
+    },
+    {
+        "id": "6110684",
+        "price": "11614.43",
+        "brand": "AMICA",
+        "name": "AMICA VC 1622 B"
+    },
+    {
+        "id": "5266306",
+        "price": "12490.00",
+        "brand": "CANDY",
+        "name": "CANDY CFLO3550E/N"
+    },
+    {
+        "id": "6389826",
+        "price": "6970.88",
+        "brand": "GODDESS",
+        "name": "GODDESS RCE0142GW9E "
+    },
+    {
+        "id": "7359976",
+        "price": "4004.52",
+        "brand": "PHILCO",
+        "name": "PHILCO PTL 93 F"
+    },
+    {
+        "id": "6438314",
+        "price": "8689.00",
+        "brand": "CANDY",
+        "name": "CANDY CIO 225 EE/N"
+    },
+    {
+        "id": "7864318",
+        "price": "10466.87",
+        "brand": "Kluge",
+        "name": "Kluge KND247W"
+    },
+    {
+        "id": "7226284",
+        "price": "3536.59",
+        "brand": "PHILCO",
+        "name": "PHILCO PTB 94 FW"
+    },
+    {
+        "id": "6366404",
+        "price": "74490.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG RF65A967ESR/EO"
+    },
+    {
+        "id": "7743987",
+        "price": "12847.16",
+        "brand": "SNAIGE",
+        "name": "SNAIGE CD29SM-S300SE"
+    },
+    {
+        "id": "6497709",
+        "price": "15090.00",
+        "brand": "Vestfrost",
+        "name": "VESTFROST VR-FB383-2H0I"
+    },
+    {
+        "id": "5290774",
+        "price": "16923.88",
+        "brand": "HAIER",
+        "name": "HAIER A3FE835CGJE"
+    },
+    {
+        "id": "6318106",
+        "price": "8490.00",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CTP 211"
+    },
+    {
+        "id": "6788421",
+        "price": "21996.94",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KI86NHFE0"
+    },
+    {
+        "id": "7747095",
+        "price": "14990.00",
+        "brand": "GORENJE",
+        "name": "GORENJE RKI419FP1"
+    },
+    {
+        "id": "7746851",
+        "price": "7940.03",
+        "brand": "LORD",
+        "name": "LORD R12"
+    },
+    {
+        "id": "6215785",
+        "price": "10466.87",
+        "brand": "ROMO",
+        "name": "ROMO RCS2270X"
+    },
+    {
+        "id": "6788420",
+        "price": "21336.49",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KI86NVSE0"
+    },
+    {
+        "id": "5832965",
+        "price": "12279.32",
+        "brand": "SEVERIN",
+        "name": "SEVERIN RKG 8932"
+    },
+    {
+        "id": "5305324",
+        "price": "31446.36",
+        "brand": "PHILCO",
+        "name": "PHILCO PX 502 Iceberg SBS"
+    },
+    {
+        "id": "7359969",
+        "price": "29410.09",
+        "brand": "HAIER",
+        "name": "HAIER HCR5919ENMB"
+    },
+    {
+        "id": "7175999",
+        "price": "13390.00",
+        "brand": "FAGOR",
+        "name": "FAGOR 3FFK-6945"
+    },
+    {
+        "id": "6994311",
+        "price": "16767.53",
+        "brand": "Bosch",
+        "name": "BOSCH KGN392WDF"
+    },
+    {
+        "id": "6332497",
+        "price": "42824.13",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KI86FPDD0"
+    },
+    {
+        "id": "7079086",
+        "price": "29619.55",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR Rd 5250"
+    },
+    {
+        "id": "7737473",
+        "price": "4228.01",
+        "brand": "GUZZANTI",
+        "name": "Guzzanti GZ 48A"
+    },
+    {
+        "id": "6393999",
+        "price": "9513.95",
+        "brand": "SNAIGE",
+        "name": "SNAIGE FR24SM-PRDL0E"
+    },
+    {
+        "id": "6237910",
+        "price": "17690.00",
+        "brand": "AEG",
+        "name": "AEG RKB638E4MX"
+    },
+    {
+        "id": "6308532",
+        "price": "9513.95",
+        "brand": "SNAIGE",
+        "name": "SNAIGE FR24SM-PRJ30E"
+    },
+    {
+        "id": "6292958",
+        "price": "6751.55",
+        "brand": "AEG",
+        "name": "AEG RTB414F1AW"
+    },
+    {
+        "id": "6638127",
+        "price": "4569.66",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 44S"
+    },
+    {
+        "id": "6937650",
+        "price": "40044.89",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBe 5120"
+    },
+    {
+        "id": "7327762",
+        "price": "16449.41",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL W7X 93A K 1"
+    },
+    {
+        "id": "6796421",
+        "price": "18089.00",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KG39NXLCF"
+    },
+    {
+        "id": "6308533",
+        "price": "10238.31",
+        "brand": "SNAIGE",
+        "name": "SNAIGE FR27SM-PRR50F"
+    },
+    {
+        "id": "7852098",
+        "price": "5713.45",
+        "brand": "SEVERIN",
+        "name": "Severin TKS 8845"
+    },
+    {
+        "id": "6674547",
+        "price": "63911.57",
+        "brand": "Miele",
+        "name": "MIELE K 7773 D"
+    },
+    {
+        "id": "6153390",
+        "price": "12830.77",
+        "brand": "BEKO",
+        "name": "BEKO BCHA275E4SN"
+    },
+    {
+        "id": "6994310",
+        "price": "15835.27",
+        "brand": "Bosch",
+        "name": "BOSCH KGN392LDF"
+    },
+    {
+        "id": "8076934",
+        "price": "4294.88",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 48S"
+    },
+    {
+        "id": "5673289",
+        "price": "24990.00",
+        "brand": "Concept",
+        "name": "CONCEPT LA7791ds TITANIA"
+    },
+    {
+        "id": "7075542",
+        "price": "50870.95",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CBNbsa 5753"
+    },
+    {
+        "id": "7815428",
+        "price": "18100.86",
+        "brand": "HOOVER",
+        "name": "HOOVER HHCR3818ENPL"
+    },
+    {
+        "id": "7327761",
+        "price": "9654.23",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL W7X 81I W"
+    },
+    {
+        "id": "6332499",
+        "price": "23290.00",
+        "brand": "Bosch",
+        "name": "BOSCH KIL82AFF0"
+    },
+    {
+        "id": "6977951",
+        "price": "4904.80",
+        "brand": "Klarstein",
+        "name": "KLARSTEIN Brooklyn 32 Silver mini"
+    },
+    {
+        "id": "6674546",
+        "price": "41803.19",
+        "brand": "Miele",
+        "name": "MIELE K 7743 E"
+    },
+    {
+        "id": "7176113",
+        "price": "15990.00",
+        "brand": "FAGOR",
+        "name": "FAGOR 3FIC-5440"
+    },
+    {
+        "id": "6937662",
+        "price": "43726.97",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR ICNd 5123"
+    },
+    {
+        "id": "6318113",
+        "price": "13162.73",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CUef 331"
+    },
+    {
+        "id": "7917928",
+        "price": "30990.00",
+        "brand": "LG",
+        "name": "LG GSLV71MCTD"
+    },
+    {
+        "id": "7789598",
+        "price": "28403.13",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KG49NXIBF"
+    },
+    {
+        "id": "6713705",
+        "price": "38209.44",
+        "brand": "HAIER",
+        "name": "HAIER HFW7819EWMP"
+    },
+    {
+        "id": "7075560",
+        "price": "23948.18",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNsdc 5223"
+    },
+    {
+        "id": "6674549",
+        "price": "36092.64",
+        "brand": "Miele",
+        "name": "MIELE KF 7731 E"
+    },
+    {
+        "id": "6447170",
+        "price": "18679.21",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KI87VVFE1"
+    },
+    {
+        "id": "2141636",
+        "price": "16666.04",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 338"
+    },
+    {
+        "id": "7359968",
+        "price": "27663.75",
+        "brand": "HAIER",
+        "name": "HAIER HFR7720DWMP"
+    },
+    {
+        "id": "6937728",
+        "price": "18433.97",
+        "brand": "HAIER",
+        "name": "HAIER HLE 172"
+    },
+    {
+        "id": "6794388",
+        "price": "22659.09",
+        "brand": "Samsung",
+        "name": "SAMSUNG Bespoke RR39A7463AP/EF (bez panelu - konfigurovatelné)"
+    },
+    {
+        "id": "7333197",
+        "price": "16280.55",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR KGNsff 57Z03"
+    },
+    {
+        "id": "7137686",
+        "price": "27786.45",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR RBsfe 5221"
+    },
+    {
+        "id": "7665809",
+        "price": "7951.47",
+        "brand": "HISENSE",
+        "name": "HISENSE RB390N4AW21"
+    },
+    {
+        "id": "6924110",
+        "price": "6803.52",
+        "brand": "SEVERIN",
+        "name": "SEVERIN VKS 8808"
+    },
+    {
+        "id": "7359965",
+        "price": "66326.09",
+        "brand": "HAIER",
+        "name": "HAIER HCR7918EIMB"
+    },
+    {
+        "id": "5557260",
+        "price": "13729.16",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CUkw 2831"
+    },
+    {
+        "id": "7333191",
+        "price": "17956.21",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR KGNsdd 52Z23"
+    },
+    {
+        "id": "7075563",
+        "price": "33298.10",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNsdd 5753"
+    },
+    {
+        "id": "7789597",
+        "price": "24243.63",
+        "brand": "Bosch",
+        "name": "BOSCH KGN39VXBT"
+    },
+    {
+        "id": "7548199",
+        "price": "13324.07",
+        "brand": "ROMO",
+        "name": "ROMO RSA396W - 4-roky záruka po registraci"
+    },
+    {
+        "id": "5557262",
+        "price": "13423.04",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CUfb 2831"
+    },
+    {
+        "id": "5842138",
+        "price": "8665.89",
+        "brand": "SEVERIN",
+        "name": "SEVERIN DT 8760"
+    },
+    {
+        "id": "7852152",
+        "price": "4547.89",
+        "brand": "SEVERIN",
+        "name": "Severin GB 8880"
+    },
+    {
+        "id": "6983602",
+        "price": "29417.64",
+        "brand": "BEKO",
+        "name": "BEKO GN1406231XBN"
+    },
+    {
+        "id": "7789596",
+        "price": "23579.78",
+        "brand": "Bosch",
+        "name": "BOSCH KGN39VIBT"
+    },
+    {
+        "id": "6448772",
+        "price": "5704.87",
+        "brand": "ROMO",
+        "name": "ROMO RTF2121W"
+    },
+    {
+        "id": "7737464",
+        "price": "5107.48",
+        "brand": "GUZZANTI",
+        "name": "Guzzanti GZ 90B1"
+    },
+    {
+        "id": "7333190",
+        "price": "15409.78",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNf 5704"
+    },
+    {
+        "id": "7730386",
+        "price": "7609.25",
+        "brand": "SNAIGE",
+        "name": "SNAIGE FR23SM-PT000E"
+    },
+    {
+        "id": "7414461",
+        "price": "17798.87",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LNT7TF18S NoFrost"
+    },
+    {
+        "id": "7433503",
+        "price": "24990.00",
+        "brand": "GORENJE",
+        "name": "GORENJE OBRB615DR"
+    },
+    {
+        "id": "7951210",
+        "price": "16265.06",
+        "brand": "LG",
+        "name": "LG GBP52PYNBN"
+    },
+    {
+        "id": "7386844",
+        "price": "20547.91",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KG49N2IDF"
+    },
+    {
+        "id": "7763375",
+        "price": "18169.46",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 600 DynamicAir LRS2DE39X"
+    },
+    {
+        "id": "7137683",
+        "price": "24987.02",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR RBe 5220"
+    },
+    {
+        "id": "6926626",
+        "price": "9990.12",
+        "brand": "SNAIGE",
+        "name": "SNAIGE CC31SM-T100FF"
+    },
+    {
+        "id": "7737472",
+        "price": "6476.82",
+        "brand": "GUZZANTI",
+        "name": "Guzzanti GZ 8812A"
+    },
+    {
+        "id": "7075556",
+        "price": "26675.62",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNbdc 5733"
+    },
+    {
+        "id": "6674557",
+        "price": "10847.83",
+        "brand": "SNAIGE",
+        "name": "SNAIGE FR27SM-PROC0F"
+    },
+    {
+        "id": "6394000",
+        "price": "9513.95",
+        "brand": "SNAIGE",
+        "name": "SNAIGE FR24SM-PRDO0E"
+    },
+    {
+        "id": "7789599",
+        "price": "29345.20",
+        "brand": "Bosch",
+        "name": "BOSCH KGN49AIBT"
+    },
+    {
+        "id": "7439765",
+        "price": "3990.00",
+        "brand": "GODDESS",
+        "name": "GODDESS RME085GW8SSF"
+    },
+    {
+        "id": "7852074",
+        "price": "26990.00",
+        "brand": "HAIER",
+        "name": "HAIER HDPW5620ANPD"
+    },
+    {
+        "id": "7333188",
+        "price": "22652.01",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR KGBNsfd 57Z33"
+    },
+    {
+        "id": "7414236",
+        "price": "36090.00",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX ELT9VE52U0 NoFrost"
+    },
+    {
+        "id": "5775840",
+        "price": "67764.37",
+        "brand": "HAIER",
+        "name": "HAIER HB26FSSAAA"
+    },
+    {
+        "id": "7665818",
+        "price": "19938.21",
+        "brand": "HISENSE",
+        "name": "HISENSE RT641N4WFE1"
+    },
+    {
+        "id": "6777421",
+        "price": "9519.00",
+        "brand": "PHILCO",
+        "name": "PHILCO PCS 2641 FNX"
+    },
+    {
+        "id": "7414237",
+        "price": "40890.00",
+        "brand": "AEG",
+        "name": "AEG RMB952E6VU NoFrost"
+    },
+    {
+        "id": "6937651",
+        "price": "45435.41",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBe 5121"
+    },
+    {
+        "id": "6308531",
+        "price": "9513.95",
+        "brand": "SNAIGE",
+        "name": "SNAIGE FR24SM-PRR50E"
+    },
+    {
+        "id": "6552215",
+        "price": "28562.47",
+        "brand": "HAIER",
+        "name": "HAIER HSR3918FIMP"
+    },
+    {
+        "id": "6937631",
+        "price": "35824.22",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRd 4151"
+    },
+    {
+        "id": "6674553",
+        "price": "59550.16",
+        "brand": "Miele",
+        "name": "MIELE KFN 7764 D"
+    },
+    {
+        "id": "7437452",
+        "price": "4084.89",
+        "brand": "GODDESS",
+        "name": "GODDESS RSE085GS8SSF"
+    },
+    {
+        "id": "7742307",
+        "price": "39990.00",
+        "brand": "HAIER",
+        "name": "HAIER HCW7819EHMP"
+    },
+    {
+        "id": "7624422",
+        "price": "44046.29",
+        "brand": "Miele",
+        "name": "MIELE KFN 4799 DDE nerez edt/cs  "
+    },
+    {
+        "id": "6674556",
+        "price": "73012.67",
+        "brand": "Miele",
+        "name": "MIELE KFN 7795 D"
+    },
+    {
+        "id": "6788419",
+        "price": "17077.05",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KI86NNSF0"
+    },
+    {
+        "id": "7730384",
+        "price": "8085.43",
+        "brand": "SNAIGE",
+        "name": "SNAIGE FR23SM-PTMP0E"
+    },
+    {
+        "id": "7414460",
+        "price": "17949.38",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LNS8FF19S 500 FLEX LowFrost"
+    },
+    {
+        "id": "7853703",
+        "price": "20016.48",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNd 5704"
+    },
+    {
+        "id": "6937671",
+        "price": "29627.78",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR UIKP 1554"
+    },
+    {
+        "id": "6937657",
+        "price": "79034.89",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBdi 5180"
+    },
+    {
+        "id": "6497726",
+        "price": "20475.65",
+        "brand": "Vestfrost",
+        "name": "VESTFROST VR-BF27952H1S"
+    },
+    {
+        "id": "6836201",
+        "price": "9797.43",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRPOOL WFNF 81E OX 1"
+    },
+    {
+        "id": "7852723",
+        "price": "15508.68",
+        "brand": "HISENSE",
+        "name": "HISENSE RS711N4WCE"
+    },
+    {
+        "id": "7134805",
+        "price": "23179.95",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNsfd 5224"
+    },
+    {
+        "id": "6926627",
+        "price": "10847.24",
+        "brand": "SNAIGE",
+        "name": "SNAIGE CC31SM-T1CBFF"
+    },
+    {
+        "id": "4364154",
+        "price": "10924.17",
+        "brand": "PHILCO",
+        "name": "PHILCO PC 17832 Bi"
+    },
+    {
+        "id": "7169429",
+        "price": "11531.80",
+        "brand": "HOOVER",
+        "name": "HOOVER HOCE4T618EX"
+    },
+    {
+        "id": "7455794",
+        "price": "15423.68",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR Rf 4600"
+    },
+    {
+        "id": "6674541",
+        "price": "21720.87",
+        "brand": "Miele",
+        "name": "MIELE K 7114 E"
+    },
+    {
+        "id": "6928195",
+        "price": "9513.95",
+        "brand": "SNAIGE",
+        "name": "SNAIGE RF27SM-P0CB2E"
+    },
+    {
+        "id": "7548197",
+        "price": "17133.67",
+        "brand": "Kluge",
+        "name": "Kluge KCP268N - 4 roky záruka po registraci"
+    },
+    {
+        "id": "7852717",
+        "price": "18052.53",
+        "brand": "HISENSE",
+        "name": "HISENSE RS711N4WCD"
+    },
+    {
+        "id": "6937644",
+        "price": "36845.29",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBd 4521"
+    },
+    {
+        "id": "6937626",
+        "price": "19842.14",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRe 3920"
+    },
+    {
+        "id": "7951209",
+        "price": "35431.17",
+        "brand": "LG",
+        "name": "LG GSGV80PYLD"
+    },
+    {
+        "id": "6216046",
+        "price": "61896.47",
+        "brand": "HITACHI",
+        "name": "HITACHI R-WB640VRU0-GBK"
+    },
+    {
+        "id": "7853706",
+        "price": "21476.32",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR KGNsdc 52Z03"
+    },
+    {
+        "id": "5673288",
+        "price": "26903.81",
+        "brand": "Concept",
+        "name": "CONCEPT LA7791ss SINFONIA"
+    },
+    {
+        "id": "7999738",
+        "price": "40736.78",
+        "brand": "HISENSE",
+        "name": "HISENSE RQ760N4SBFE"
+    },
+    {
+        "id": "7853704",
+        "price": "19043.39",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNd 5204"
+    },
+    {
+        "id": "7134802",
+        "price": "20045.96",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNsfd 5233"
+    },
+    {
+        "id": "7079081",
+        "price": "60338.21",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR SBNsdd 5264"
+    },
+    {
+        "id": "7075551",
+        "price": "38572.60",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CBNsdc 5753"
+    },
+    {
+        "id": "7075550",
+        "price": "63029.75",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CBNstd 579i"
+    },
+    {
+        "id": "6937653",
+        "price": "77707.29",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBdi 5171"
+    },
+    {
+        "id": "7137696",
+        "price": "19104.12",
+        "brand": "Toshiba",
+        "name": "TOSHIBA GR-RF610WE-PMS(06)"
+    },
+    {
+        "id": "7853705",
+        "price": "16733.47",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR KGNd 57Z03"
+    },
+    {
+        "id": "6469014",
+        "price": "55557.32",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR SKBes 4380"
+    },
+    {
+        "id": "7917927",
+        "price": "34860.26",
+        "brand": "LG",
+        "name": "LG GSLV91MCAC"
+    },
+    {
+        "id": "7522534",
+        "price": "9038.28",
+        "brand": "CANDY",
+        "name": "CANDY CRU 160 NE/N"
+    },
+    {
+        "id": "7763371",
+        "price": "24839.11",
+        "brand": "AEG",
+        "name": "AEG 8000 Cooling 360 RCB736D7MB"
+    },
+    {
+        "id": "7853702",
+        "price": "19647.27",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNsfd 5704"
+    },
+    {
+        "id": "7333187",
+        "price": "21424.80",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR KGBNsfd 52Z23"
+    },
+    {
+        "id": "6937658",
+        "price": "54344.79",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR ICNdi 5153"
+    },
+    {
+        "id": "8022313",
+        "price": "22848.08",
+        "brand": "ROMO",
+        "name": "ROMO RCN2511LD"
+    },
+    {
+        "id": "7415643",
+        "price": "16181.27",
+        "brand": "BRANDT",
+        "name": "BRANDT BFL862YNW"
+    },
+    {
+        "id": "6937663",
+        "price": "55293.81",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR SICNd 5153"
+    },
+    {
+        "id": "6924120",
+        "price": "20951.84",
+        "brand": "SEVERIN",
+        "name": "SEVERIN RKG 8929"
+    },
+    {
+        "id": "8008642",
+        "price": "29860.20",
+        "brand": "Bosch",
+        "name": "BOSCH KBN96VFE0"
+    },
+    {
+        "id": "7763383",
+        "price": "15470.25",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 600 TwinTech LNC7ME32W3"
+    },
+    {
+        "id": "7333189",
+        "price": "13918.15",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR KGNf 52Z03"
+    },
+    {
+        "id": "7134800",
+        "price": "20608.96",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNsfd 5223"
+    },
+    {
+        "id": "7844045",
+        "price": "7609.25",
+        "brand": "SNAIGE",
+        "name": "SNAIGE RF23SM-PT002E"
+    },
+    {
+        "id": "6928191",
+        "price": "9513.95",
+        "brand": "SNAIGE",
+        "name": "SNAIGE RF32SM-S0002F"
+    },
+    {
+        "id": "7871955",
+        "price": "17311.32",
+        "brand": "HAIER",
+        "name": "HAIER HBW5518E"
+    },
+    {
+        "id": "7747100",
+        "price": "12947.16",
+        "brand": "LORD",
+        "name": "LORD R4"
+    },
+    {
+        "id": "6448521",
+        "price": "10466.87",
+        "brand": "ROMO",
+        "name": "ROMO RCS2288W"
+    },
+    {
+        "id": "6924119",
+        "price": "20951.84",
+        "brand": "SEVERIN",
+        "name": "SEVERIN RKG 8928"
+    },
+    {
+        "id": "7938474",
+        "price": "10332.98",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 340A"
+    },
+    {
+        "id": "7806885",
+        "price": "28562.47",
+        "brand": "Kluge",
+        "name": "KLUGE KCSN513X - 4 roky záruka po registraci"
+    },
+    {
+        "id": "7625813",
+        "price": "13490.00",
+        "brand": "PHILCO",
+        "name": "PHILCO PCN 17742 EBI"
+    },
+    {
+        "id": "7548203",
+        "price": "12371.68",
+        "brand": "ROMO",
+        "name": "ROMO RCNS270LX - 4 roky záruka po registraci"
+    },
+    {
+        "id": "7742311",
+        "price": "40195.66",
+        "brand": "HAIER",
+        "name": "HAIER HCR5919EHMP"
+    },
+    {
+        "id": "6977954",
+        "price": "5689.00",
+        "brand": "Klarstein",
+        "name": "KLARSTEIN CoolArt"
+    },
+    {
+        "id": "7864320",
+        "price": "6657.28",
+        "brand": "ROMO",
+        "name": "Romo RCS2207W"
+    },
+    {
+        "id": "6852413",
+        "price": "15352.59",
+        "brand": "LORD",
+        "name": "LORD R1"
+    },
+    {
+        "id": "7763373",
+        "price": "17990.00",
+        "brand": "AEG",
+        "name": "AEG 6000 TwinTech RCB636E8MW"
+    },
+    {
+        "id": "7547090",
+        "price": "11990.00",
+        "brand": "CANDY",
+        "name": "CANDY CCE4T618DX Fresco"
+    },
+    {
+        "id": "7853711",
+        "price": "14580.29",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR Ksl 2834"
+    },
+    {
+        "id": "6150460",
+        "price": "25998.90",
+        "brand": "LORD",
+        "name": "LORD C11"
+    },
+    {
+        "id": "7624413",
+        "price": "30063.42",
+        "brand": "Miele",
+        "name": "MIELE KDN 7724 E Active"
+    },
+    {
+        "id": "7844043",
+        "price": "8561.60",
+        "brand": "SNAIGE",
+        "name": "SNAIGE RF26SM-PT002E"
+    },
+    {
+        "id": "7888806",
+        "price": "10467.00",
+        "brand": "BEKO",
+        "name": "BEKO Beyond B5RCNA365HG"
+    },
+    {
+        "id": "7404882",
+        "price": "13077.27",
+        "brand": "HAIER",
+        "name": "HAIER HDW1620DNPD"
+    },
+    {
+        "id": "7852716",
+        "price": "20742.43",
+        "brand": "HISENSE",
+        "name": "HISENSE RQ563N4SI2"
+    },
+    {
+        "id": "6937674",
+        "price": "29450.78",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR UIKP 1550"
+    },
+    {
+        "id": "6937637",
+        "price": "37245.48",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRDe 5121"
+    },
+    {
+        "id": "6468982",
+        "price": "34518.63",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CBNef 4835"
+    },
+    {
+        "id": "7761154",
+        "price": "21290.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG Bespoke RB38C7B6D12/EF "
+    },
+    {
+        "id": "7896473",
+        "price": "3808.65",
+        "brand": "SEVERIN",
+        "name": "Severin KB 8879 "
+    },
+    {
+        "id": "7455792",
+        "price": "16032.06",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR Rsff 4600"
+    },
+    {
+        "id": "6448509",
+        "price": "6665.85",
+        "brand": "Orava",
+        "name": "ORAVA RGO-261"
+    },
+    {
+        "id": "7730385",
+        "price": "6466.43",
+        "brand": "SNAIGE",
+        "name": "SNAIGE FR22SM-PT000E"
+    },
+    {
+        "id": "7548192",
+        "price": "11419.28",
+        "brand": "ROMO",
+        "name": "ROMO RCNS270LW - 4 roky záruka po registraci"
+    },
+    {
+        "id": "6937629",
+        "price": "31949.71",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRe 4021"
+    },
+    {
+        "id": "6862166",
+        "price": "8271.39",
+        "brand": "LORD",
+        "name": "LORD L1"
+    },
+    {
+        "id": "7852150",
+        "price": "5237.25",
+        "brand": "SEVERIN",
+        "name": "Severin VKS 8842 "
+    },
+    {
+        "id": "6497705",
+        "price": "13696.29",
+        "brand": "Vestfrost",
+        "name": "VESTFROST VR-FB373-2H0I"
+    },
+    {
+        "id": "7137684",
+        "price": "25624.92",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR RBe 5221"
+    },
+    {
+        "id": "7079083",
+        "price": "29683.74",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR SRBsfe 5220"
+    },
+    {
+        "id": "6937636",
+        "price": "33092.88",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBd 4050"
+    },
+    {
+        "id": "6926629",
+        "price": "14275.68",
+        "brand": "SNAIGE",
+        "name": "SNAIGE CC35DM-P6CBFD"
+    },
+    {
+        "id": "7763372",
+        "price": "19390.04",
+        "brand": "AEG",
+        "name": "AEG 8000 Cooling 360 RCB732E7MX"
+    },
+    {
+        "id": "7763370",
+        "price": "20274.37",
+        "brand": "AEG",
+        "name": "AEG 8000 Cooling 360 RCB736E7MX"
+    },
+    {
+        "id": "7763385",
+        "price": "23914.26",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 800 Cooling 360 LNT7ME36K2"
+    },
+    {
+        "id": "5842121",
+        "price": "18466.08",
+        "brand": "AEG",
+        "name": "AEG Mastery RCB636E4MX"
+    },
+    {
+        "id": "6777422",
+        "price": "10973.42",
+        "brand": "PHILCO",
+        "name": "PHILCO PCD 3241 FNF"
+    },
+    {
+        "id": "7852097",
+        "price": "7618.24",
+        "brand": "SEVERIN",
+        "name": "Severin TKS 8846 "
+    },
+    {
+        "id": "6924118",
+        "price": "20951.84",
+        "brand": "SEVERIN",
+        "name": "SEVERIN RKG 8927"
+    },
+    {
+        "id": "7548190",
+        "price": "11419.28",
+        "brand": "ROMO",
+        "name": "ROMO RCE341W - 4 roky záruka po registraci"
+    },
+    {
+        "id": "5842127",
+        "price": "15990.00",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LNT5MF36W0"
+    },
+    {
+        "id": "8014511",
+        "price": "11379.07",
+        "brand": "HISENSE",
+        "name": "HISENSE RB395N4BFE"
+    },
+    {
+        "id": "7455790",
+        "price": "17962.01",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR Rf 5000"
+    },
+    {
+        "id": "7761160",
+        "price": "21290.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG Bespoke RB38C7B6D22/EF "
+    },
+    {
+        "id": "7745785",
+        "price": "8561.60",
+        "brand": "SNAIGE",
+        "name": "SNAIGE C29SM-T1002F"
+    },
+    {
+        "id": "4364155",
+        "price": "7847.79",
+        "brand": "PHILCO",
+        "name": "PHILCO PTL 12232 BI"
+    },
+    {
+        "id": "7333195",
+        "price": "14934.80",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR KGNsff 52Z04"
+    },
+    {
+        "id": "6524134",
+        "price": "4665.81",
+        "brand": "CHiQ",
+        "name": "CHiQ FCF142D"
+    },
+    {
+        "id": "8014510",
+        "price": "11379.07",
+        "brand": "HISENSE",
+        "name": "HISENSE RB395N4BCE"
+    },
+    {
+        "id": "7290724",
+        "price": "14590.13",
+        "brand": "HOOVER",
+        "name": "HOOVER HOCE7T618DW"
+    },
+    {
+        "id": "6448523",
+        "price": "8562.07",
+        "brand": "ROMO",
+        "name": "ROMO RCS2232W"
+    },
+    {
+        "id": "7852153",
+        "price": "3808.65",
+        "brand": "SEVERIN",
+        "name": "Severin GB 8883 "
+    },
+    {
+        "id": "6497708",
+        "price": "15162.59",
+        "brand": "Vestfrost",
+        "name": "VESTFROST VR-FB383-2H0H"
+    },
+    {
+        "id": "7844042",
+        "price": "9513.95",
+        "brand": "SNAIGE",
+        "name": "SNAIGE RF29SM-PTMP2E"
+    },
+    {
+        "id": "6928190",
+        "price": "9990.12",
+        "brand": "SNAIGE",
+        "name": "SNAIGE RF35SM-S0002F"
+    },
+    {
+        "id": "6393993",
+        "price": "10276.40",
+        "brand": "SNAIGE",
+        "name": "SNAIGE RF56SM-S5JJ2F"
+    },
+    {
+        "id": "7193770",
+        "price": "10276.40",
+        "brand": "SNAIGE",
+        "name": "SNAIGE RF56SM-S5DV2F"
+    },
+    {
+        "id": "6926624",
+        "price": "9323.47",
+        "brand": "SNAIGE",
+        "name": "SNAIGE CC29SM-T100FF"
+    },
+    {
+        "id": "6727925",
+        "price": "14818.87",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL WHC18 T573"
+    },
+    {
+        "id": "7871114",
+        "price": "20576.05",
+        "brand": "LG",
+        "name": "LG GBB92STABP"
+    },
+    {
+        "id": "8051373",
+        "price": "17932.20",
+        "brand": "Samsung",
+        "name": "SAMSUNG RB38T607BS9/EF "
+    },
+    {
+        "id": "8597242",
+        "price": "14421.99",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LRB3DE18S"
+    },
+    {
+        "id": "7866289",
+        "price": "15592.06",
+        "brand": "Bosch",
+        "name": "BOSCH KGN397WCT"
+    },
+    {
+        "id": "7136781",
+        "price": "12593.68",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL WHC20 T352"
+    },
+    {
+        "id": "7920436",
+        "price": "17190.47",
+        "brand": "AEG",
+        "name": "AEG Mastery RCB736D5MB"
+    },
+    {
+        "id": "7935275",
+        "price": "13790.37",
+        "brand": "AEG",
+        "name": "AEG Mastery RCB736E5MX"
+    },
+    {
+        "id": "8133719",
+        "price": "11061.82",
+        "brand": "Vestfrost",
+        "name": "VESTFROST VR-BB27612H1S"
+    },
+    {
+        "id": "8435302",
+        "price": "15325.86",
+        "brand": "AEG",
+        "name": "AEG Mastery CustomFlex SCE618E5TS"
+    },
+    {
+        "id": "8072739",
+        "price": "73081.16",
+        "brand": "HISENSE",
+        "name": "HISENSE RQ760N4IFE"
+    },
+    {
+        "id": "8550639",
+        "price": "0.00",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR SWTNes 4285"
+    },
+    {
+        "id": "8133109",
+        "price": "26920.06",
+        "brand": "Bosch",
+        "name": "BOSCH KGN392LAF"
+    },
+    {
+        "id": "8574146",
+        "price": "19493.10",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX ECB7TE70S NoFrost"
+    },
+    {
+        "id": "7767283",
+        "price": "34311.97",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR ICBdi 5122"
+    },
+    {
+        "id": "6557202",
+        "price": "15046.35",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL SP40 801 EU 1"
+    },
+    {
+        "id": "8134045",
+        "price": "40567.59",
+        "brand": "Bosch",
+        "name": "BOSCH KAD93ABEP"
+    },
+    {
+        "id": "7962437",
+        "price": "33850.81",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 900 MultiChill ENV9MC18S"
+    },
+    {
+        "id": "7999733",
+        "price": "27630.01",
+        "brand": "HISENSE",
+        "name": "HISENSE RF749N4SWSE"
+    },
+    {
+        "id": "7962436",
+        "price": "27546.42",
+        "brand": "AEG",
+        "name": "AEG 8000 Cooling 360 RCB836C5MX"
+    },
+    {
+        "id": "7942294",
+        "price": "11963.27",
+        "brand": "AEG",
+        "name": "AEG SCB819F8FS LowFrost"
+    },
+    {
+        "id": "8134047",
+        "price": "15345.79",
+        "brand": "Bosch",
+        "name": "BOSCH KIL42VFE0"
+    },
+    {
+        "id": "8134046",
+        "price": "21311.54",
+        "brand": "Bosch",
+        "name": "BOSCH KIR81VFE0"
+    },
+    {
+        "id": "7931011",
+        "price": "17542.58",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 800 Cooling 360 LNT7ME36X3"
+    },
+    {
+        "id": "7999737",
+        "price": "30450.59",
+        "brand": "HISENSE",
+        "name": "HISENSE RS818N4TIC"
+    },
+    {
+        "id": "7999736",
+        "price": "30450.59",
+        "brand": "HISENSE",
+        "name": "HISENSE RS818N4TFC"
+    },
+    {
+        "id": "7867927",
+        "price": "19102.27",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNd 5734"
+    },
+    {
+        "id": "8008644",
+        "price": "16772.52",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KI86VNSE0"
+    },
+    {
+        "id": "8073412",
+        "price": "6990.00",
+        "brand": "ROMO",
+        "name": "ROMO RDD204W "
+    },
+    {
+        "id": "8008650",
+        "price": "17507.19",
+        "brand": "Bosch",
+        "name": "BOSCH KIN86NSE0"
+    },
+    {
+        "id": "8006524",
+        "price": "22880.89",
+        "brand": "Bosch",
+        "name": "BOSCH KIN96NSE0"
+    },
+    {
+        "id": "7176000",
+        "price": "16990.00",
+        "brand": "FAGOR",
+        "name": "FAGOR 3FFK-6745X"
+    },
+    {
+        "id": "8550770",
+        "price": "17606.57",
+        "brand": "HISENSE",
+        "name": "HISENSE RB424N4CIB"
+    },
+    {
+        "id": "6937641",
+        "price": "55565.79",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBb 4170"
+    },
+    {
+        "id": "8022314",
+        "price": "21895.68",
+        "brand": "ROMO",
+        "name": "ROMO RCN2511LX"
+    },
+    {
+        "id": "8076933",
+        "price": "3005.59",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 06B1"
+    },
+    {
+        "id": "8076932",
+        "price": "2665.76",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 05A1"
+    },
+    {
+        "id": "8550769",
+        "price": "10341.77",
+        "brand": "HISENSE",
+        "name": "HISENSE RB395N4DCD"
+    },
+    {
+        "id": "7761158",
+        "price": "21290.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG Bespoke RB38C7B6DCE/EF  "
+    },
+    {
+        "id": "7486466",
+        "price": "17698.67",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KI86NVSE0"
+    },
+    {
+        "id": "7844047",
+        "price": "8085.43",
+        "brand": "SNAIGE",
+        "name": "SNAIGE RF23SM-PTMP2E"
+    },
+    {
+        "id": "7844046",
+        "price": "8561.60",
+        "brand": "SNAIGE",
+        "name": "SNAIGE RF29SM-PT002E"
+    },
+    {
+        "id": "7852151",
+        "price": "4761.05",
+        "brand": "SEVERIN",
+        "name": "Severin GB 8881"
+    },
+    {
+        "id": "7951222",
+        "price": "25243.78",
+        "brand": "AEG",
+        "name": "AEG 6000 Twintech+ TSC6M181ES"
+    },
+    {
+        "id": "8008645",
+        "price": "18786.33",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KI86NNSE0"
+    },
+    {
+        "id": "7804567",
+        "price": "28211.15",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KI86SADD0"
+    },
+    {
+        "id": "7920617",
+        "price": "32200.25",
+        "brand": "HAIER",
+        "name": "HAIER HSW79F18CIMM"
+    },
+    {
+        "id": "8014936",
+        "price": "11990.00",
+        "brand": "HISENSE",
+        "name": "HISENSE RB395N4BWE"
+    },
+    {
+        "id": "7695107",
+        "price": "0.00",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CBNsdb 5753"
+    },
+    {
+        "id": "7714103",
+        "price": "42502.46",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CBNbsa 5753"
+    },
+    {
+        "id": "7671662",
+        "price": "0.00",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CBNsdb 5753"
+    },
+    {
+        "id": "6862159",
+        "price": "25271.29",
+        "brand": "LORD",
+        "name": "LORD C12"
+    },
+    {
+        "id": "7624419",
+        "price": "36762.28",
+        "brand": "Miele",
+        "name": "MIELE KFN 4795 CD blacksteel"
+    },
+    {
+        "id": "8083213",
+        "price": "8475.41",
+        "brand": "Orava",
+        "name": "Orava RGO-254"
+    },
+    {
+        "id": "8574169",
+        "price": "14189.67",
+        "brand": "PHILCO",
+        "name": "PHILCO PXI 3652 X"
+    },
+    {
+        "id": "6497734",
+        "price": "29999.65",
+        "brand": "Vestfrost",
+        "name": "VESTFROST VR-FB373-2E1BU"
+    },
+    {
+        "id": "6497721",
+        "price": "29999.65",
+        "brand": "Vestfrost",
+        "name": "VESTFROST VR-FB373-2E1RD"
+    },
+    {
+        "id": "7962438",
+        "price": "21158.06",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 600 TwinTech ENT6ME18S"
+    },
+    {
+        "id": "7852715",
+        "price": "28613.04",
+        "brand": "HISENSE",
+        "name": "HISENSE RQ563N4SF2"
+    },
+    {
+        "id": "7650381",
+        "price": "17990.00",
+        "brand": "HOOVER",
+        "name": "HOOVER HOCE7620CX"
+    },
+    {
+        "id": "7806889",
+        "price": "14990.00",
+        "brand": "Kluge",
+        "name": "KLUGE KCN4326X - 4 roky záruka po registraci"
+    },
+    {
+        "id": "8010388",
+        "price": "58092.10",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR ICBb 5152"
+    },
+    {
+        "id": "7625851",
+        "price": "35092.42",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR ICNd 5123"
+    },
+    {
+        "id": "8069810",
+        "price": "35871.66",
+        "brand": "Samsung",
+        "name": "SAMSUNG RH68B8541B1/EF"
+    },
+    {
+        "id": "6497725",
+        "price": "29999.65",
+        "brand": "Vestfrost",
+        "name": "VESTFROST VR-FB373-2E0BM"
+    },
+    {
+        "id": "7623693",
+        "price": "13770.64",
+        "brand": "CANDY",
+        "name": "CANDY CCE4T620DX Fresco"
+    },
+    {
+        "id": "7623690",
+        "price": "12290.16",
+        "brand": "CANDY",
+        "name": "CANDY CCE3T620ES Fresco"
+    },
+    {
+        "id": "7763379",
+        "price": "17956.19",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 600 TwinTech LNC7ME32X3"
+    },
+    {
+        "id": "7968519",
+        "price": "29954.76",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX ELT9VE52U0 NoFrost"
+    },
+    {
+        "id": "7938473",
+        "price": "11427.85",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 8825"
+    },
+    {
+        "id": "7781688",
+        "price": "19293.01",
+        "brand": "HAIER",
+        "name": "HAIER HDW5620CNPW"
+    },
+    {
+        "id": "7781687",
+        "price": "18473.48",
+        "brand": "HAIER",
+        "name": "HAIER HDW1620CNPD"
+    },
+    {
+        "id": "7806888",
+        "price": "19038.48",
+        "brand": "BRANDT",
+        "name": "BRANDT BFC2069NX - 4 roky záruka po registraci"
+    },
+    {
+        "id": "7806887",
+        "price": "19038.48",
+        "brand": "ROMO",
+        "name": "ROMO RCNF320D - 4 roky záruka po registraci"
+    },
+    {
+        "id": "7137689",
+        "price": "57348.31",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR SRBbsd 529i"
+    },
+    {
+        "id": "6937672",
+        "price": "36845.29",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR SUIB 1550"
+    },
+    {
+        "id": "6937649",
+        "price": "62234.54",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBe 4851"
+    },
+    {
+        "id": "7624414",
+        "price": "19918.03",
+        "brand": "Miele",
+        "name": "MIELE KDN 4174 E nerezový vzhled"
+    },
+    {
+        "id": "7761157",
+        "price": "24328.05",
+        "brand": "Samsung",
+        "name": "SAMSUNG Bespoke RB38C7B6DB1/EF  "
+    },
+    {
+        "id": "8550636",
+        "price": "0.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG BESPOKE RB38A7B6DCS/EF"
+    },
+    {
+        "id": "7844044",
+        "price": "8847.30",
+        "brand": "SNAIGE",
+        "name": "SNAIGE RF26SM-PTMP2E"
+    },
+    {
+        "id": "7743988",
+        "price": "47607.81",
+        "brand": "SNAIGE",
+        "name": "SNAIGE MD40DD-P300ME"
+    },
+    {
+        "id": "6497722",
+        "price": "29999.65",
+        "brand": "Vestfrost",
+        "name": "VESTFROST VR-FB373-2E1BG"
+    },
+    {
+        "id": "7548198",
+        "price": "11895.47",
+        "brand": "ROMO",
+        "name": "ROMO RCE341X - 4 roky záruka po registraci"
+    },
+    {
+        "id": "7763388",
+        "price": "24059.91",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 800 Cooling 360 LNT7ME36G2"
+    },
+    {
+        "id": "4364156",
+        "price": "9378.31",
+        "brand": "PHILCO",
+        "name": "PHILCO PTB 12232 Bi"
+    },
+    {
+        "id": "7175997",
+        "price": "15590.00",
+        "brand": "FAGOR",
+        "name": "FAGOR 3FFK-6745"
+    },
+    {
+        "id": "7665817",
+        "price": "42250.57",
+        "brand": "HISENSE",
+        "name": "HISENSE RQ760N4AIE"
+    },
+    {
+        "id": "7806882",
+        "price": "16990.00",
+        "brand": "ROMO",
+        "name": "ROMO RCN4347X - 4 roky záruka po registraci"
+    },
+    {
+        "id": "7853710",
+        "price": "18554.89",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNsfd 5204"
+    },
+    {
+        "id": "6937654",
+        "price": "29450.78",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR ICTS 2231"
+    },
+    {
+        "id": "6937648",
+        "price": "62649.79",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBd 4571"
+    },
+    {
+        "id": "6937646",
+        "price": "51923.79",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBd 4551"
+    },
+    {
+        "id": "6937645",
+        "price": "51758.06",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBd 4550"
+    },
+    {
+        "id": "6937635",
+        "price": "28850.79",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBd 4020"
+    },
+    {
+        "id": "7445477",
+        "price": "0.00",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR SKBes 4380"
+    },
+    {
+        "id": "7677278",
+        "price": "13251.92",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR Rf 4600"
+    },
+    {
+        "id": "6862164",
+        "price": "14651.31",
+        "brand": "LORD",
+        "name": "LORD C17"
+    },
+    {
+        "id": "6674552",
+        "price": "48780.17",
+        "brand": "Miele",
+        "name": "MIELE KFN 7744 E"
+    },
+    {
+        "id": "6228170",
+        "price": "6189.65",
+        "brand": "Orava",
+        "name": "ORAVA RGO-105 FW"
+    },
+    {
+        "id": "6777419",
+        "price": "11518.06",
+        "brand": "PHILCO",
+        "name": "PHILCO PCD 3242 ENFX"
+    },
+    {
+        "id": "6497724",
+        "price": "29999.65",
+        "brand": "Vestfrost",
+        "name": "VESTFROST VR-FB373-2E1BR"
+    },
+    {
+        "id": "7548191",
+        "price": "15228.88",
+        "brand": "ROMO",
+        "name": "ROMO RCN295LX - 4 roky záruka po registraci"
+    },
+    {
+        "id": "7951168",
+        "price": "15237.44",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 256A"
+    },
+    {
+        "id": "6216047",
+        "price": "61896.47",
+        "brand": "HITACHI",
+        "name": "HITACHI R-WB640VRU0-GMG"
+    },
+    {
+        "id": "7806884",
+        "price": "12371.68",
+        "brand": "ROMO",
+        "name": "ROMO RCN2293X - 4roky záruka po registraci"
+    },
+    {
+        "id": "7806880",
+        "price": "16657.48",
+        "brand": "ROMO",
+        "name": "ROMO RCN4347D - 4 roky záruka po registraci"
+    },
+    {
+        "id": "7075543",
+        "price": "53792.32",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CBNbsd 578i"
+    },
+    {
+        "id": "6937670",
+        "price": "45950.29",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR UIKo 1560"
+    },
+    {
+        "id": "6937652",
+        "price": "61739.29",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBd 4570"
+    },
+    {
+        "id": "6937640",
+        "price": "43018.79",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBd 4151"
+    },
+    {
+        "id": "6937638",
+        "price": "35024.29",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBd 4121"
+    },
+    {
+        "id": "7624417",
+        "price": "39493.78",
+        "brand": "Miele",
+        "name": "MIELE KFN 4777 CD nerez edt/cs  "
+    },
+    {
+        "id": "8083211",
+        "price": "12570.73",
+        "brand": "Orava",
+        "name": "Orava RGO-270"
+    },
+    {
+        "id": "8601161",
+        "price": "10522.16",
+        "brand": "PHILCO",
+        "name": "PHILCO PCN 17742 EBI"
+    },
+    {
+        "id": "7140446",
+        "price": "18086.07",
+        "brand": "ROMO",
+        "name": "ROMO RCN3341LD"
+    },
+    {
+        "id": "7548196",
+        "price": "14276.48",
+        "brand": "ROMO",
+        "name": "ROMO RCN295LW - 4 roky záruka po registraci"
+    },
+    {
+        "id": "7670399",
+        "price": "20943.27",
+        "brand": "Kluge",
+        "name": "Kluge KCFN320BG"
+    },
+    {
+        "id": "7792027",
+        "price": "14111.24",
+        "brand": "HAIER",
+        "name": "HAIER HDW3618DNPW"
+    },
+    {
+        "id": "7806881",
+        "price": "15228.88",
+        "brand": "ROMO",
+        "name": "ROMO RCN4347W - 4 roky záruka po registraci"
+    },
+    {
+        "id": "7075549",
+        "price": "53792.32",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CBNstd 578i"
+    },
+    {
+        "id": "6937673",
+        "price": "40268.27",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR UIKo 1550"
+    },
+    {
+        "id": "6937660",
+        "price": "42108.29",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRCf 5121"
+    },
+    {
+        "id": "6937647",
+        "price": "56476.29",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBd 4171"
+    },
+    {
+        "id": "6937630",
+        "price": "28260.97",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRe 4020"
+    },
+    {
+        "id": "6674555",
+        "price": "65832.68",
+        "brand": "Miele",
+        "name": "MIELE KFN 7774 D"
+    },
+    {
+        "id": "6926630",
+        "price": "18085.07",
+        "brand": "SNAIGE",
+        "name": "SNAIGE CC48DM-P600FD"
+    },
+    {
+        "id": "6862165",
+        "price": "15399.42",
+        "brand": "LORD",
+        "name": "LORD C18"
+    },
+    {
+        "id": "7624411",
+        "price": "17183.53",
+        "brand": "Miele",
+        "name": "MIELE KD 4072 E Active nerezový vzhled"
+    },
+    {
+        "id": "7762984",
+        "price": "25489.86",
+        "brand": "BEKO",
+        "name": "BEKO GNE60531XBRN"
+    },
+    {
+        "id": "5658845",
+        "price": "2237.29",
+        "brand": "LIEBHERR",
+        "name": "Spořící přepážka k LIEBHERR GN 3023"
+    },
+    {
+        "id": "6320632",
+        "price": "16243.04",
+        "brand": "AEG",
+        "name": "AEG Mastery FlexiShelf SCE818D3LC"
+    },
+    {
+        "id": "6470821",
+        "price": "26680.50",
+        "brand": "Bosch",
+        "name": "BOSCH KGF39PIDP"
+    },
+    {
+        "id": "7815438",
+        "price": "23299.20",
+        "brand": "Concept",
+        "name": "CONCEPT LK6660SS SINFONIA"
+    },
+    {
+        "id": "7510949",
+        "price": "34390.62",
+        "brand": "Concept",
+        "name": "CONCEPT LA8990ss SINFONIA"
+    },
+    {
+        "id": "7670400",
+        "price": "20943.27",
+        "brand": "Grundig",
+        "name": "Grungig GKNI25940N"
+    },
+    {
+        "id": "7655721",
+        "price": "0.00",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LNT7ME34X2"
+    },
+    {
+        "id": "7066725",
+        "price": "0.00",
+        "brand": "HAIER",
+        "name": "HAIER C3FE837CGJ"
+    },
+    {
+        "id": "7850120",
+        "price": "12690.48",
+        "brand": "HISENSE",
+        "name": "HISENSE RB440N4GBE"
+    },
+    {
+        "id": "7245245",
+        "price": "11553.08",
+        "brand": "MIDEA",
+        "name": "MIDEA MDRB438FGE28"
+    },
+    {
+        "id": "8550637",
+        "price": "13475.77",
+        "brand": "Samsung",
+        "name": "SAMSUNG BESPOKE RB38A7B6DCE/EF"
+    },
+    {
+        "id": "5814843",
+        "price": "15990.00",
+        "brand": "HISENSE",
+        "name": "HISENSE RQ515N4AC2"
+    },
+    {
+        "id": "6928139",
+        "price": "19214.50",
+        "brand": "GORENJE",
+        "name": "GORENJE ONRK619DC"
+    },
+    {
+        "id": "6928144",
+        "price": "8003.36",
+        "brand": "GORENJE",
+        "name": "GORENJE RBIU609FA1"
+    },
+    {
+        "id": "5455175",
+        "price": "26990.00",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL WQ9 E1L"
+    },
+    {
+        "id": "7591202",
+        "price": "9990.00",
+        "brand": "HISENSE",
+        "name": "HISENSE RB390N4BF20"
+    },
+    {
+        "id": "6093610",
+        "price": "24890.00",
+        "brand": "AEG",
+        "name": "AEG Mastery SKE818E9ZC"
+    },
+    {
+        "id": "6684610",
+        "price": "9989.00",
+        "brand": "ETA",
+        "name": "ETA 253890020E Storio retro"
+    },
+    {
+        "id": "6447169",
+        "price": "18489.73",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KI86VVSE0"
+    },
+    {
+        "id": "6418986",
+        "price": "16020.76",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL WB70E 972 X"
+    },
+    {
+        "id": "7759468",
+        "price": "4571.39",
+        "brand": "HISENSE",
+        "name": "HISENSE RR106D4CRF"
+    },
+    {
+        "id": "5471405",
+        "price": "4907.05",
+        "brand": "AMICA",
+        "name": "AMICA VM 852.3 AW"
+    },
+    {
+        "id": "4590291",
+        "price": "7362.76",
+        "brand": "AMICA",
+        "name": "AMICA VT 862 AR"
+    },
+    {
+        "id": "7752630",
+        "price": "24266.72",
+        "brand": "HISENSE",
+        "name": "HISENSE RS677N4AFC"
+    },
+    {
+        "id": "7156079",
+        "price": "13868.15",
+        "brand": "Bosch",
+        "name": "BOSCH KIL42NSE0"
+    },
+    {
+        "id": "6447168",
+        "price": "19626.36",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KI86VVFE0"
+    },
+    {
+        "id": "7962434",
+        "price": "32950.04",
+        "brand": "AEG",
+        "name": "AEG 8000 Cooling 360 TSC8M181CS"
+    },
+    {
+        "id": "7137693",
+        "price": "24809.34",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR SRsfe 5220"
+    },
+    {
+        "id": "7075548",
+        "price": "24064.43",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CBNsfd 5723"
+    },
+    {
+        "id": "5318916",
+        "price": "10990.00",
+        "brand": "MORA",
+        "name": "MORA VCN 1821"
+    },
+    {
+        "id": "7763387",
+        "price": "20559.59",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 800 Cooling 360 LNT7ME36X3"
+    },
+    {
+        "id": "7624425",
+        "price": "23411.66",
+        "brand": "Miele",
+        "name": "MIELE KFN 4374 ED nerezový vzhled"
+    },
+    {
+        "id": "6497719",
+        "price": "30390.00",
+        "brand": "Vestfrost",
+        "name": "VESTFROST VR-FW916-1E0I"
+    },
+    {
+        "id": "6977880",
+        "price": "44090.00",
+        "brand": "Bosch",
+        "name": "BOSCH KAD93VBFP"
+    },
+    {
+        "id": "5596965",
+        "price": "17990.00",
+        "brand": "Concept",
+        "name": "CONCEPT LK5470ss SINFONIA"
+    },
+    {
+        "id": "7137692",
+        "price": "20287.13",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR Rsfe 5020"
+    },
+    {
+        "id": "7075547",
+        "price": "27209.69",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CBNsfc 522i"
+    },
+    {
+        "id": "6804371",
+        "price": "7039.00",
+        "brand": "Klarstein",
+        "name": "KLARSTEIN Audrey Mini červená"
+    },
+    {
+        "id": "6674554",
+        "price": "71410.68",
+        "brand": "Miele",
+        "name": "MIELE KFN 7785 D"
+    },
+    {
+        "id": "6937668",
+        "price": "83012.53",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBPdi 5170"
+    },
+    {
+        "id": "7899034",
+        "price": "9656.86",
+        "brand": "MORA",
+        "name": "MORA VC 1820"
+    },
+    {
+        "id": "7763389",
+        "price": "15567.07",
+        "brand": "AEG",
+        "name": "AEG 6000 TwinTech  RCB632E8MX"
+    },
+    {
+        "id": "2923335",
+        "price": "12874.00",
+        "brand": "Miele",
+        "name": "MIELE K 12012 S-3"
+    },
+    {
+        "id": "6875686",
+        "price": "5104.99",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL W55TM 4110 W 1"
+    },
+    {
+        "id": "8598253",
+        "price": "8191.70",
+        "brand": "GORENJE",
+        "name": "GORENJE NRK418ECW4"
+    },
+    {
+        "id": "7159803",
+        "price": "10897.26",
+        "brand": "GORENJE",
+        "name": "GORENJE NRK6192AC4"
+    },
+    {
+        "id": "8600477",
+        "price": "29871.27",
+        "brand": "Bosch",
+        "name": "BOSCH KGN39AIAT"
+    },
+    {
+        "id": "7079082",
+        "price": "39609.80",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR SRsdd 5250"
+    },
+    {
+        "id": "7624412",
+        "price": "16706.76",
+        "brand": "Miele",
+        "name": "MIELE KD 4072 E Active bílá"
+    },
+    {
+        "id": "7137687",
+        "price": "50676.51",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR RBstd 528i"
+    },
+    {
+        "id": "7709349",
+        "price": "14005.75",
+        "brand": "SEVERIN",
+        "name": "SEVERIN KGK 8943"
+    },
+    {
+        "id": "7591214",
+        "price": "12499.00",
+        "brand": "Siguro",
+        "name": "SIGURO BF-O120S Ideal"
+    },
+    {
+        "id": "7243708",
+        "price": "13990.00",
+        "brand": "LG",
+        "name": "LG GBB61SWGCN1"
+    },
+    {
+        "id": "7360320",
+        "price": "13990.00",
+        "brand": "LG",
+        "name": "LG GBB61PZGCN1"
+    },
+    {
+        "id": "7625778",
+        "price": "24990.00",
+        "brand": "LG",
+        "name": "LG GBP62PZNAC"
+    },
+    {
+        "id": "6318116",
+        "price": "13990.00",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CUel 331"
+    },
+    {
+        "id": "5799522",
+        "price": "16990.00",
+        "brand": "Bosch",
+        "name": "BOSCH KGE39ALCA"
+    },
+    {
+        "id": "7811253",
+        "price": "8360.53",
+        "brand": "MORA",
+        "name": "MORA CMDN 3054 S"
+    },
+    {
+        "id": "6796420",
+        "price": "17590.00",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KG39N2ICF"
+    },
+    {
+        "id": "7920616",
+        "price": "3564.15",
+        "brand": "CANDY",
+        "name": "CANDY CHASD4351EBC"
+    },
+    {
+        "id": "6162159",
+        "price": "10112.91",
+        "brand": "BEKO",
+        "name": "BEKO BCSA285K4SN"
+    },
+    {
+        "id": "6246119",
+        "price": "19133.52",
+        "brand": "HISENSE",
+        "name": "HISENSE RS650N4AC2"
+    },
+    {
+        "id": "7811251",
+        "price": "8381.73",
+        "brand": "MORA",
+        "name": "MORA CMDN 3054 W"
+    },
+    {
+        "id": "6314811",
+        "price": "5989.00",
+        "brand": "GODDESS",
+        "name": "GODDESS RDC0116GW8F"
+    },
+    {
+        "id": "6223500",
+        "price": "10931.44",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL ARG 913 1"
+    },
+    {
+        "id": "6246125",
+        "price": "17060.53",
+        "brand": "HISENSE",
+        "name": "HISENSE RQ563N4SWF1"
+    },
+    {
+        "id": "6314813",
+        "price": "5989.00",
+        "brand": "GODDESS",
+        "name": "GODDESS RCD0150GW8AF"
+    },
+    {
+        "id": "6885594",
+        "price": "3439.76",
+        "brand": "Siguro",
+        "name": "SIGURO TT-D160W Thrifty"
+    },
+    {
+        "id": "6332500",
+        "price": "14790.00",
+        "brand": "Bosch",
+        "name": "BOSCH KSV33VLEP"
+    },
+    {
+        "id": "7802088",
+        "price": "3729.11",
+        "brand": "CANDY",
+        "name": "CANDY CHASD4385EW"
+    },
+    {
+        "id": "6223505",
+        "price": "14511.66",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL  SW8 AM2C XR 2"
+    },
+    {
+        "id": "6471145",
+        "price": "4390.00",
+        "brand": "GODDESS",
+        "name": "GODDESS RDE085GW8AF "
+    },
+    {
+        "id": "7263495",
+        "price": "9059.71",
+        "brand": "INDESIT",
+        "name": "INDESIT SI6 1 W"
+    },
+    {
+        "id": "6448533",
+        "price": "24681.53",
+        "brand": "Samsung",
+        "name": "SAMSUNG BRB30705EWW/EF"
+    },
+    {
+        "id": "6223501",
+        "price": "11490.00",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL ARG 86121"
+    },
+    {
+        "id": "7774596",
+        "price": "8686.93",
+        "brand": "GORENJE",
+        "name": "GORENJE RK416DPS4"
+    },
+    {
+        "id": "7774594",
+        "price": "13730.61",
+        "brand": "GORENJE",
+        "name": "GORENJE NRK61CS2XL4"
+    },
+    {
+        "id": "7792025",
+        "price": "18433.87",
+        "brand": "HAIER",
+        "name": "HAIER HCR3818ENPT"
+    },
+    {
+        "id": "7058742",
+        "price": "8264.07",
+        "brand": "CANDY",
+        "name": "CANDY CBL3518F"
+    },
+    {
+        "id": "6319672",
+        "price": "11074.56",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR KP 290"
+    },
+    {
+        "id": "6366405",
+        "price": "51141.69",
+        "brand": "Samsung",
+        "name": "SAMSUNG RF23R62E3SR/EO"
+    },
+    {
+        "id": "5659677",
+        "price": "4767.36",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL W55RM 1110 W"
+    },
+    {
+        "id": "6223481",
+        "price": "10490.00",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL W5 811E W 1"
+    },
+    {
+        "id": "6153384",
+        "price": "9937.65",
+        "brand": "BEKO",
+        "name": "BEKO RCNA406I40WN"
+    },
+    {
+        "id": "7663214",
+        "price": "4790.00",
+        "brand": "GORENJE",
+        "name": "GORENJE R492PW"
+    },
+    {
+        "id": "7663215",
+        "price": "12171.95",
+        "brand": "GORENJE",
+        "name": "GORENJE R619EEW5"
+    },
+    {
+        "id": "6572873",
+        "price": "3779.36",
+        "brand": "Concept",
+        "name": "CONCEPT LTR3047bc RETRO"
+    },
+    {
+        "id": "7263170",
+        "price": "23499.59",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL WHC18 T574 P"
+    },
+    {
+        "id": "6438315",
+        "price": "5298.20",
+        "brand": "CANDY",
+        "name": "CANDY CBO 150 NE/N"
+    },
+    {
+        "id": "7761151",
+        "price": "27990.00",
+        "brand": "Samsung",
+        "name": "SAMSUNG Bespoke RB38A7CGTS9/EF "
+    },
+    {
+        "id": "6554427",
+        "price": "25048.37",
+        "brand": "HAIER",
+        "name": "HAIER H3R-330WNA"
+    },
+    {
+        "id": "7811252",
+        "price": "5743.16",
+        "brand": "MORA",
+        "name": "MORA CMH 2474 W"
+    },
+    {
+        "id": "4067306",
+        "price": "8633.99",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR Tsl 1414"
+    },
+    {
+        "id": "6928137",
+        "price": "18242.66",
+        "brand": "GORENJE",
+        "name": "GORENJE ONRK619DBK"
+    },
+    {
+        "id": "6928142",
+        "price": "18817.62",
+        "brand": "GORENJE",
+        "name": "GORENJE ONRK619DR-L"
+    },
+    {
+        "id": "7075553",
+        "price": "17986.41",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNd 5023"
+    },
+    {
+        "id": "6398148",
+        "price": "13043.39",
+        "brand": "GORENJE",
+        "name": "GORENJE NRK6202AC4"
+    },
+    {
+        "id": "6994315",
+        "price": "13872.15",
+        "brand": "Bosch",
+        "name": "BOSCH KGN39VWEQ"
+    },
+    {
+        "id": "7455797",
+        "price": "22751.61",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR MRFvc 5501"
+    },
+    {
+        "id": "6469016",
+        "price": "83588.57",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR SWTNes 4285"
+    },
+    {
+        "id": "8134048",
+        "price": "27862.59",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KI81RADD0"
+    },
+    {
+        "id": "7852714",
+        "price": "20762.73",
+        "brand": "HISENSE",
+        "name": "HISENSE RF540N4SBI2"
+    },
+    {
+        "id": "7852720",
+        "price": "14291.46",
+        "brand": "HISENSE",
+        "name": "HISENSE RS711N4WFE"
+    },
+    {
+        "id": "7075554",
+        "price": "19150.25",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNd 5223"
+    },
+    {
+        "id": "6345115",
+        "price": "70590.94",
+        "brand": "Miele",
+        "name": "MIELE KFN 15842 D edt/cs"
+    },
+    {
+        "id": "7742308",
+        "price": "20757.42",
+        "brand": "HAIER",
+        "name": "HAIER HTR5719ENPT"
+    },
+    {
+        "id": "7742758",
+        "price": "18281.27",
+        "brand": "BEKO",
+        "name": "BEKO RCNE366E70ZXBRN"
+    },
+    {
+        "id": "8008641",
+        "price": "35227.48",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KB96NADD0"
+    },
+    {
+        "id": "7624410",
+        "price": "15890.00",
+        "brand": "Miele",
+        "name": "MIELE KD 4052 E Active nerezový vzhled"
+    },
+    {
+        "id": "7624423",
+        "price": "36830.03",
+        "brand": "Miele",
+        "name": "MIELE KFN 4795 DD nerez edt/cs  "
+    },
+    {
+        "id": "7624424",
+        "price": "19152.28",
+        "brand": "Miele",
+        "name": "MIELE KDN 4074 E Active nerezový vzhled"
+    },
+    {
+        "id": "7853709",
+        "price": "16769.37",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR Rsfe 4620"
+    },
+    {
+        "id": "7938411",
+        "price": "5248.40",
+        "brand": "GUZZANTI",
+        "name": "GUZZANTI GZ 70A"
+    },
+    {
+        "id": "6311267",
+        "price": "10089.44",
+        "brand": "ETA",
+        "name": "ETA 139190001F"
+    },
+    {
+        "id": "6292403",
+        "price": "14990.00",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX LNT3LF14S"
+    },
+    {
+        "id": "6705409",
+        "price": "47390.00",
+        "brand": "AEG",
+        "name": "AEG RMB954F9VX"
+    },
+    {
+        "id": "7736850",
+        "price": "28210.59",
+        "brand": "LG",
+        "name": "LG GBB92MCB2P"
+    },
+    {
+        "id": "7359966",
+        "price": "39041.24",
+        "brand": "HAIER",
+        "name": "HAIER HCR5919EHMB"
+    },
+    {
+        "id": "6278988",
+        "price": "13409.62",
+        "brand": "HAIER",
+        "name": "HAIER HTR3619ENPW"
+    },
+    {
+        "id": "7455798",
+        "price": "19964.61",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR MRFvc 4001 "
+    },
+    {
+        "id": "7752631",
+        "price": "27626.57",
+        "brand": "HISENSE",
+        "name": "HISENSE RQ758N4BFE"
+    },
+    {
+        "id": "6436239",
+        "price": "6828.34",
+        "brand": "BEKO",
+        "name": "BEKO RDSA240K30XPN"
+    },
+    {
+        "id": "6937667",
+        "price": "66916.98",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR ICBb 5152"
+    },
+    {
+        "id": "7263496",
+        "price": "10264.03",
+        "brand": "INDESIT",
+        "name": "INDESIT SI6 1 S"
+    },
+    {
+        "id": "7687664",
+        "price": "24128.94",
+        "brand": "Samsung",
+        "name": "SAMSUNG BRR29603EWW/EF"
+    },
+    {
+        "id": "7455791",
+        "price": "21499.27",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR Rsfe 5220"
+    },
+    {
+        "id": "6674544",
+        "price": "41563.61",
+        "brand": "Miele",
+        "name": "MIELE K 7443 D"
+    },
+    {
+        "id": "7999732",
+        "price": "32232.73",
+        "brand": "HISENSE",
+        "name": "HISENSE RF793N4SAFE"
+    },
+    {
+        "id": "7853708",
+        "price": "22292.82",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR Re 5220"
+    },
+    {
+        "id": "7920614",
+        "price": "3479.50",
+        "brand": "CANDY",
+        "name": "CANDY CHASD4351EWC"
+    },
+    {
+        "id": "6434106",
+        "price": "12198.68",
+        "brand": "Sharp",
+        "name": "SHARP SJ BA31DHXIE"
+    },
+    {
+        "id": "7999731",
+        "price": "22106.06",
+        "brand": "HISENSE",
+        "name": "HISENSE RF540N4WIE"
+    },
+    {
+        "id": "6674545",
+        "price": "35337.25",
+        "brand": "Miele",
+        "name": "MIELE K 7733 E"
+    },
+    {
+        "id": "7920619",
+        "price": "25854.94",
+        "brand": "HAIER",
+        "name": "HAIER HSW59F18EIPT"
+    },
+    {
+        "id": "6276257",
+        "price": "19990.00",
+        "brand": "HISENSE",
+        "name": "HISENSE RS650N4AF2"
+    },
+    {
+        "id": "7752625",
+        "price": "10990.00",
+        "brand": "HISENSE",
+        "name": "HISENSE RB390N4BFC"
+    },
+    {
+        "id": "6223503",
+        "price": "10396.31",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL ARG 7181"
+    },
+    {
+        "id": "7792026",
+        "price": "19990.00",
+        "brand": "HAIER",
+        "name": "HAIER HCR3818ENMM"
+    },
+    {
+        "id": "6937665",
+        "price": "19990.00",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR ICSe 5103"
+    },
+    {
+        "id": "6524103",
+        "price": "18284.04",
+        "brand": "GORENJE",
+        "name": "GORENJE NRK6202CLI"
+    },
+    {
+        "id": "7966360",
+        "price": "5148.97",
+        "brand": "GORENJE",
+        "name": "GORENJE RF212EPW4"
+    },
+    {
+        "id": "6928141",
+        "price": "18275.68",
+        "brand": "GORENJE",
+        "name": "GORENJE ONRK619DR"
+    },
+    {
+        "id": "6320626",
+        "price": "24790.00",
+        "brand": "LG",
+        "name": "LG GBB92STABP"
+    },
+    {
+        "id": "7811725",
+        "price": "13394.30",
+        "brand": "ETA",
+        "name": "ETA 335590000CN"
+    },
+    {
+        "id": "6223485",
+        "price": "5249.00",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL W55VM 1110 W 1"
+    },
+    {
+        "id": "8014935",
+        "price": "12142.23",
+        "brand": "HISENSE",
+        "name": "HISENSE RB440N4AFD"
+    },
+    {
+        "id": "6410996",
+        "price": "37329.43",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL WQ9 U1L"
+    },
+    {
+        "id": "6158966",
+        "price": "33113.76",
+        "brand": "BEKO",
+        "name": "BEKO GN1426234ZDXN"
+    },
+    {
+        "id": "6928138",
+        "price": "18690.00",
+        "brand": "GORENJE",
+        "name": "GORENJE ONRK619DBK-L"
+    },
+    {
+        "id": "7747094",
+        "price": "14777.90",
+        "brand": "GORENJE",
+        "name": "GORENJE NRKI419EP1"
+    },
+    {
+        "id": "6418981",
+        "price": "20384.47",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL WHC20 T593"
+    },
+    {
+        "id": "6223478",
+        "price": "10226.75",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL W5 911E W 1"
+    },
+    {
+        "id": "6928145",
+        "price": "6462.33",
+        "brand": "GORENJE",
+        "name": "GORENJE RF4142PW4"
+    },
+    {
+        "id": "6150813",
+        "price": "10990.00",
+        "brand": "GORENJE",
+        "name": "GORENJE N619EAW4"
+    },
+    {
+        "id": "6977878",
+        "price": "62585.77",
+        "brand": "Bosch",
+        "name": "BOSCH KFF96PIEP"
+    },
+    {
+        "id": "6436241",
+        "price": "10788.21",
+        "brand": "BEKO",
+        "name": "BEKO BCHA275K4SN"
+    },
+    {
+        "id": "6469017",
+        "price": "7084.47",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR T 1404"
+    },
+    {
+        "id": "7075566",
+        "price": "24890.20",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNsdc 5723"
+    },
+    {
+        "id": "7134799",
+        "price": "18739.14",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNsfd 5023"
+    },
+    {
+        "id": "7075545",
+        "price": "48862.81",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CBNsda 5753"
+    },
+    {
+        "id": "6778834",
+        "price": "16970.86",
+        "brand": "Samsung",
+        "name": "SAMSUNG Bespoke RB34A7B5DAP/EF (bez panelů - konfigurovatelné)"
+    },
+    {
+        "id": "7774591",
+        "price": "18990.00",
+        "brand": "GORENJE",
+        "name": "GORENJE NRR9185EAXL"
+    },
+    {
+        "id": "5761027",
+        "price": "54287.50",
+        "brand": "Samsung",
+        "name": "SAMSUNG RF24R7201SR/EF"
+    },
+    {
+        "id": "7718160",
+        "price": "14652.43",
+        "brand": "SNAIGE",
+        "name": "SNAIGE CD39DM-T302BEX"
+    },
+    {
+        "id": "7962432",
+        "price": "35670.10",
+        "brand": "AEG",
+        "name": "AEG 8000 Cooling 360 TSC8M191CS"
+    },
+    {
+        "id": "7746849",
+        "price": "8600.69",
+        "brand": "LORD",
+        "name": "LORD R5"
+    },
+    {
+        "id": "7962433",
+        "price": "32037.58",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 800 Cooling 360° ENC8MC18S"
+    },
+    {
+        "id": "7763374",
+        "price": "18054.92",
+        "brand": "AEG",
+        "name": "AEG 5000 ColdSense OSC5D181ES"
+    },
+    {
+        "id": "7075552",
+        "price": "20990.00",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNbdd 5733"
+    },
+    {
+        "id": "7763381",
+        "price": "14637.65",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 500 ColdSense LNS5LE18S"
+    },
+    {
+        "id": "6937661",
+        "price": "40308.37",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR ICBdi 5122"
+    },
+    {
+        "id": "6162161",
+        "price": "14683.16",
+        "brand": "BEKO",
+        "name": "BEKO BCNA306E4SN"
+    },
+    {
+        "id": "6937642",
+        "price": "34768.43",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBd 4120"
+    },
+    {
+        "id": "7625784",
+        "price": "28659.43",
+        "brand": "Miele",
+        "name": "MIELE KD 7724 E Active"
+    },
+    {
+        "id": "7977679",
+        "price": "17799.81",
+        "brand": "BEKO",
+        "name": "BEKO GNO5323XPN"
+    },
+    {
+        "id": "6162160",
+        "price": "6999.00",
+        "brand": "BEKO",
+        "name": "BEKO BU1103N"
+    },
+    {
+        "id": "6937643",
+        "price": "35550.05",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRBd 4520"
+    },
+    {
+        "id": "7137691",
+        "price": "18716.32",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR Re 5020"
+    },
+    {
+        "id": "6796424",
+        "price": "6220.31",
+        "brand": "ETA",
+        "name": "ETA 253990000E"
+    },
+    {
+        "id": "5318914",
+        "price": "9648.20",
+        "brand": "MORA",
+        "name": "MORA VC 1811"
+    },
+    {
+        "id": "6778833",
+        "price": "18977.57",
+        "brand": "Samsung",
+        "name": "SAMSUNG Bespoke RB38A7B6CAP/EF (bez panelů - konfigurovatelné)"
+    },
+    {
+        "id": "6937734",
+        "price": "9471.06",
+        "brand": "TEKA",
+        "name": "TEKA RSR 41150 FI EU"
+    },
+    {
+        "id": "5775839",
+        "price": "67194.63",
+        "brand": "HAIER",
+        "name": "HAIER HB26FSNAAA"
+    },
+    {
+        "id": "6218450",
+        "price": "17977.56",
+        "brand": "BEKO",
+        "name": "BEKO RCNE560E40ZXBN"
+    },
+    {
+        "id": "6318117",
+        "price": "9037.96",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR T 1504"
+    },
+    {
+        "id": "4067303",
+        "price": "13492.46",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR TP 1724"
+    },
+    {
+        "id": "6153385",
+        "price": "24103.14",
+        "brand": "BEKO",
+        "name": "BEKO RCNE560E60ZGBHN"
+    },
+    {
+        "id": "7134801",
+        "price": "39164.32",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CBNsdb 5753"
+    },
+    {
+        "id": "7075544",
+        "price": "34990.00",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CBNsda 5723"
+    },
+    {
+        "id": "5632687",
+        "price": "74078.61",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR ZKes 453"
+    },
+    {
+        "id": "7176163",
+        "price": "39536.59",
+        "brand": "Samsung",
+        "name": "SAMSUNG RH68B8541B1/EF"
+    },
+    {
+        "id": "7547182",
+        "price": "14948.91",
+        "brand": "BEKO",
+        "name": "BEKO Beyond B3RMLNE444HXB"
+    },
+    {
+        "id": "7811729",
+        "price": "13251.02",
+        "brand": "ETA",
+        "name": "ETA 139790000EN"
+    },
+    {
+        "id": "5632688",
+        "price": "147897.48",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR ECBN 6256"
+    },
+    {
+        "id": "7137690",
+        "price": "24792.32",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR RBsfe 5220"
+    },
+    {
+        "id": "6937659",
+        "price": "35025.97",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRd 4150"
+    },
+    {
+        "id": "7075562",
+        "price": "29926.80",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNsdd 5253"
+    },
+    {
+        "id": "5327682",
+        "price": "18136.02",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL ADN203 C"
+    },
+    {
+        "id": "6674550",
+        "price": "34403.53",
+        "brand": "Miele",
+        "name": "MIELE KFN 7733 F"
+    },
+    {
+        "id": "7455789",
+        "price": "14259.11",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR Rf 4200"
+    },
+    {
+        "id": "7134803",
+        "price": "21836.75",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNsfd 5723"
+    },
+    {
+        "id": "6937624",
+        "price": "20990.00",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRe 3921"
+    },
+    {
+        "id": "7853707",
+        "price": "15823.06",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR KGNd 52Z03"
+    },
+    {
+        "id": "7746850",
+        "price": "10572.62",
+        "brand": "LORD",
+        "name": "LORD L2"
+    },
+    {
+        "id": "6937632",
+        "price": "17827.93",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRf 3901"
+    },
+    {
+        "id": "7746853",
+        "price": "6642.68",
+        "brand": "LORD",
+        "name": "LORD R3"
+    },
+    {
+        "id": "6468979",
+        "price": "70237.43",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CBNbe 5778"
+    },
+    {
+        "id": "7624421",
+        "price": "35210.31",
+        "brand": "Miele",
+        "name": "MIELE KFN 4797 DD bílá"
+    },
+    {
+        "id": "7747097",
+        "price": "6669.83",
+        "brand": "LORD",
+        "name": "LORD R2"
+    },
+    {
+        "id": "7962439",
+        "price": "19344.80",
+        "brand": "ELECTROLUX",
+        "name": "ELECTROLUX 600 Twintech ENT6NE18S"
+    },
+    {
+        "id": "5274495",
+        "price": "24652.55",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR SGNesf 3063"
+    },
+    {
+        "id": "7134806",
+        "price": "23111.15",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR CNsfd 5734"
+    },
+    {
+        "id": "5260526",
+        "price": "19515.46",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL ADN 202/2"
+    },
+    {
+        "id": "260596",
+        "price": "3651.27",
+        "brand": "LIEBHERR",
+        "name": "Spořící přepážka k LIEBHERR GN 3023"
+    },
+    {
+        "id": "8424545",
+        "price": "8183.06",
+        "brand": "BEKO",
+        "name": "BEKO RCSA240K40SN"
+    },
+    {
+        "id": "8558760",
+        "price": "17495.51",
+        "brand": "GORENJE",
+        "name": "GORENJE RI518EA1"
+    },
+    {
+        "id": "8424439",
+        "price": "5087.87",
+        "brand": "BEKO",
+        "name": "BEKO TS190340N"
+    },
+    {
+        "id": "7631353",
+        "price": "8245.23",
+        "brand": "CANDY",
+        "name": "CANDY CRU 164 NE/N"
+    },
+    {
+        "id": "7966772",
+        "price": "14801.47",
+        "brand": "GORENJE",
+        "name": "GORENJE NRC6194SXL4"
+    },
+    {
+        "id": "8052174",
+        "price": "22660.90",
+        "brand": "Samsung",
+        "name": "SAMSUNG RR39C7BJ5S9/EF"
+    },
+    {
+        "id": "8014937",
+        "price": "27278.45",
+        "brand": "HISENSE",
+        "name": "HISENSE RQ758N4SBSE"
+    },
+    {
+        "id": "8008643",
+        "price": "24165.89",
+        "brand": "SIEMENS",
+        "name": "SIEMENS KI96NNSE0"
+    },
+    {
+        "id": "6928133",
+        "price": "27624.01",
+        "brand": "FRANKE",
+        "name": "FRANKE FCT 480 NF XS E"
+    },
+    {
+        "id": "6937666",
+        "price": "70644.19",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR ICNdi 5173"
+    },
+    {
+        "id": "7631351",
+        "price": "14713.49",
+        "brand": "CANDY",
+        "name": "CANDY CBT5518EW"
+    },
+    {
+        "id": "6937634",
+        "price": "18524.79",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRSf 3901"
+    },
+    {
+        "id": "6937633",
+        "price": "18524.79",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRSf 3900"
+    },
+    {
+        "id": "7631352",
+        "price": "21370.33",
+        "brand": "CANDY",
+        "name": "CANDY CBT7719FW 70 cm"
+    },
+    {
+        "id": "6862156",
+        "price": "18946.24",
+        "brand": "LORD",
+        "name": "LORD C4"
+    },
+    {
+        "id": "7624416",
+        "price": "27657.28",
+        "brand": "Miele",
+        "name": "MIELE KFN 4395 CD nerezový vzhled"
+    },
+    {
+        "id": "6937627",
+        "price": "28085.04",
+        "brand": "LIEBHERR",
+        "name": "LIEBHERR IRd 3951"
+    },
+    {
+        "id": "7631350",
+        "price": "34147.55",
+        "brand": "WHIRLPOOL",
+        "name": "Whirlpool WHC20 T593 P"
+    },
+    {
+        "id": "6547291",
+        "price": "2060.70",
+        "brand": "Ukonic",
+        "name": "Xbox Mini Fridge"
+    },
+    {
+        "id": "6418970",
+        "price": "4499.00",
+        "brand": "Concept",
+        "name": "CONCEPT LFT2047wh"
+    },
+    {
+        "id": "5832966",
+        "price": "11958.59",
+        "brand": "SEVERIN",
+        "name": "SEVERIN RKG 8933"
+    },
+    {
+        "id": "6127075",
+        "price": "53971.35",
+        "brand": "Smeg",
+        "name": "SMEG FAB32RBL3"
+    },
+    {
+        "id": "5525161",
+        "price": "14990.00",
+        "brand": "Concept",
+        "name": "CONCEPT LA7383ss"
+    },
+    {
+        "id": "4279493",
+        "price": "17333.17",
+        "brand": "LG",
+        "name": "LG GBB60SWGFS"
+    },
+    {
+        "id": "3859641",
+        "price": "16165.59",
+        "brand": "Concept",
+        "name": "CONCEPT LKR7360bc"
+    },
+    {
+        "id": "3859654",
+        "price": "13490.00",
+        "brand": "Concept",
+        "name": "CONCEPT LKR7360wh"
+    },
+    {
+        "id": "7056212",
+        "price": "19252.55",
+        "brand": "PHILCO",
+        "name": "PHILCO PX 396 E"
+    },
+    {
+        "id": "5459630",
+        "price": "57359.78",
+        "brand": "Sharp",
+        "name": "SHARP SJ PX830FSL"
+    },
+    {
+        "id": "5859760",
+        "price": "21164.30",
+        "brand": "SEVERIN",
+        "name": "SEVERIN FRD 8994"
+    },
+    {
+        "id": "6127104",
+        "price": "22959.97",
+        "brand": "Smeg",
+        "name": "SMEG FAB10LRD5"
+    },
+    {
+        "id": "5262943",
+        "price": "28459.71",
+        "brand": "Concept",
+        "name": "CONCEPT LA8983ss"
+    },
+    {
+        "id": "5141023",
+        "price": "25651.47",
+        "brand": "Concept",
+        "name": "CONCEPT LA8883ss"
+    },
+    {
+        "id": "5697368",
+        "price": "11539.68",
+        "brand": "WHIRLPOOL",
+        "name": "WHIRLPOOL W7 921O OX H"
+    },
+    {
+        "id": "5596963",
+        "price": "15070.07",
+        "brand": "Concept",
+        "name": "CONCEPT LK5660ss"
+    },
+    {
+        "id": "2220474",
+        "price": "16854.05",
+        "brand": "Concept",
+        "name": "CONCEPT LA8080 WH"
+    },
+    {
+        "id": "1569235",
+        "price": "16384.25",
+        "brand": "Concept",
+        "name": "CONCEPT LA8080"
+    },
+    {
+        "id": "5515208",
+        "price": "18252.62",
+        "brand": "Concept",
+        "name": "CONCEPT LA8385ss"
+    },
+    {
+        "id": "2925349",
+        "price": "20989.12",
+        "brand": "Concept",
+        "name": "CONCEPT LA8580wh"
+    },
+    {
+        "id": "2892505",
+        "price": "16384.15",
+        "brand": "Concept",
+        "name": "CONCEPT LA8080ss"
+    },
+    {
+        "id": "2925346",
+        "price": "20989.12",
+        "brand": "Concept",
+        "name": "CONCEPT LA8580bc"
+    },
+    {
+        "id": "6127078",
+        "price": "53971.35",
+        "brand": "Smeg",
+        "name": "SMEG FAB32LRD3"
+    },
+    {
+        "id": "3859645",
+        "price": "16170.05",
+        "brand": "Concept",
+        "name": "CONCEPT LKR7360cr"
+    },
+    {
+        "id": "5321428",
+        "price": "14990.00",
+        "brand": "Concept",
+        "name": "CONCEPT LKR7360cl"
+    },
+    {
+        "id": "2892506",
+        "price": "10666.74",
+        "brand": "Concept",
+        "name": "CONCEPT LKV4360"
+    },
+    {
+        "id": "5263566",
+        "price": "14553.18",
+        "brand": "Concept",
+        "name": "CONCEPT LKV5360"
+    },
+    {
+        "id": "6922599",
+        "price": "27514.54",
+        "brand": "SEVERIN",
+        "name": "SEVERIN CDR 8996"
+    }
+]

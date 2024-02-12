@@ -56,7 +56,7 @@ const getFilterResults = (categoryId, page) => {
 }
 
 const getCategoryName = (categoryId) => {
-  return `${categoryId}_${Date.now()}`;
+  return `raw_${categoryId}`;
 }
 
 const parseItemsDataFromFilterResults = (filterResults) => {
